@@ -1,4 +1,3 @@
 - Get Started
-    - [Authentication Guide](authentication.md)
-    - [Settings Guide](settings.md)
+    - [Authentication Guide](about.md)
 - [About Us](about.md)
