@@ -1,3 +1,5 @@
 - Get Started
-    - [Authentication Guide](about.md)
+    - [Authentication Guide](authentication.md)
+- User Guide
+    - [Language Settings](localization.md)
 - [About Us](about.md)
