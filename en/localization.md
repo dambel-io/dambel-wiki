@@ -54,11 +54,11 @@ The language change will take effect immediately:
 
 Here's what the language selection process looks like:
 
-![Language Selection Screen](settings-screen.png)
+![Language Selection Screen](images/settings-screen.png)
 
 **Settings Screen showing Language section**
 
-![Language Dialog](language-dialog.png)
+![Language Dialog](images/language-dialog.png)
 
 **Language selection dialog with current language marked**
 

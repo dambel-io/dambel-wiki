@@ -12,7 +12,7 @@ Dambel uses a phone number-based authentication system where you can create an a
 
 When you open the Dambel app for the first time or if you're not logged in, you'll see the login screen.
 
-![Login Screen](login-screen.png)
+![Login Screen](images/login-screen.png)
 
 ### Step 2: Enter Your Credentials
 
@@ -35,7 +35,7 @@ Once successfully logged in, you'll be automatically redirected to the main app 
 
 From the login screen, you can access the registration screen by tapping "Sign Up" at the bottom.
 
-![Register Screen](register-screen.png)
+![Register Screen](images/register-screen.png)
 
 ### Step 2: Fill Out Registration Form
 
