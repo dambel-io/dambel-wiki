@@ -2,4 +2,5 @@
     - [Authentication Guide](authentication.md)
 - User Guide
     - [Language Settings](localization.md)
+    - [Notifications](notifications.md)
 - [About Us](about.md)

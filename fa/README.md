@@ -2,4 +2,5 @@
     - [راهنمای احراز هویت](authentication.md)
 - راهنمای کاربر
     - [تنظیمات زبان](localization.md)
+    - [اعلان‌ ها](notifications.md)
 - [درباره ما](about.md)
