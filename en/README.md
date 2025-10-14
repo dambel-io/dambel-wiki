@@ -1,6 +1,7 @@
 - Get Started
     - [Authentication Guide](authentication.md)
 - User Guide
-    - [Language Settings](localization.md)
+    - [AI Assistant](ai-assistant.md)
     - [Notifications](notifications.md)
+    - [Language Settings](localization.md)
 - [About Us](about.md)
