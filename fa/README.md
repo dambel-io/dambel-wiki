@@ -1,6 +1,7 @@
 - شروع کنید
     - [راهنمای احراز هویت](authentication.md)
 - راهنمای کاربر
+    - [پروفایل](profile.md)
     - [دستیار هوش مصنوعی](ai-assistant.md)
     - [اعلان‌ ها](notifications.md)
     - [تنظیمات زبان](localization.md)
