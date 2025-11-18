@@ -5,4 +5,8 @@
     - [دستیار هوش مصنوعی](ai-assistant.md)
     - [اعلان‌ ها](notifications.md)
     - [تنظیمات زبان](localization.md)
+- برنامه‌ها
+    - [برنامه‌های غذایی](diet-plans.md)
+    - [برنامه‌های تمرینی](workout-plans.md)
+- [سیستم ثبت عملکرد](tracker.md)
 - [درباره ما](about.md)

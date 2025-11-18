@@ -5,4 +5,8 @@
     - [AI Assistant](ai-assistant.md)
     - [Notifications](notifications.md)
     - [Language Settings](localization.md)
+- Plans
+    - [Diet Plans](diet-plans.md)
+    - [Workout Plans](workout-plans.md)
+- [Tracker System](tracker.md)
 - [About Us](about.md)
