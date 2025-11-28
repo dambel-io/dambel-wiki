@@ -3,10 +3,11 @@
 - User Guide
     - [Profile](profile.md)
     - [AI Assistant](ai-assistant.md)
+    - [Chat](chat.md)
     - [Notifications](notifications.md)
     - [Language Settings](localization.md)
-- Plans
+- Training
     - [Diet Plans](diet-plans.md)
     - [Workout Plans](workout-plans.md)
-- [Tracker System](tracker.md)
+    - [Tracker System](tracker.md)
 - [About Us](about.md)

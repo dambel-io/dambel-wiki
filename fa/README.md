@@ -3,10 +3,11 @@
 - راهنمای کاربر
     - [پروفایل](profile.md)
     - [دستیار هوش مصنوعی](ai-assistant.md)
+    - [چت](chat.md)
     - [اعلان‌ ها](notifications.md)
     - [تنظیمات زبان](localization.md)
-- برنامه‌ها
+- تمرین
     - [برنامه‌های غذایی](diet-plans.md)
     - [برنامه‌های تمرینی](workout-plans.md)
-- [سیستم ثبت عملکرد](tracker.md)
+    - [سیستم ثبت عملکرد](tracker.md)
 - [درباره ما](about.md)
