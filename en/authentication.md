@@ -56,9 +56,13 @@ The registration form requires the following information:
 
 After filling out the form, tap the "Register" button to create your account.
 
-### Step 4: Automatic Login
+### Step 4: Phone Confirmation Code
 
-Once your account is successfully created, you'll be automatically logged in and redirected to the main app.
+After submitting the registration form, you'll receive a confirmation code via SMS to the phone number you provided. Enter this code to verify your phone number and complete the registration process.
+
+### Step 5: Automatic Login
+
+Once your phone number is verified and your account is successfully created, you'll be automatically logged in and redirected to the main app.
 
 ## Password Requirements
 
@@ -92,9 +96,57 @@ If you're having trouble registering:
 3. **Username availability**: The username you chose might already be taken, try a different one
 4. **Internet connection**: Ensure you have a stable internet connection
 
+## Forgot Password
+
+If you've forgotten your password, you can reset it using the forgot password feature:
+
+### Step 1: Access Forgot Password
+
+From the login screen, tap on "Forgot Password" or the similar link provided.
+
+### Step 2: Enter Phone Number
+
+Enter the phone number associated with your account.
+
+### Step 3: Receive Verification Code
+
+You'll receive a verification code via SMS to your registered phone number.
+
+### Step 4: Enter Verification Code
+
+Enter the verification code you received to verify your identity.
+
+### Step 5: Set New Password
+
+Once verified, you'll be able to set a new password for your account. Make sure to choose a strong password that meets the password requirements.
+
+### Step 6: Login with New Password
+
+After successfully resetting your password, you can log in using your phone number and the new password.
+
+## Change Password
+
+You can change your password at any time from the Settings page:
+
+### Accessing Change Password
+
+1. Navigate to the Profile section of the app
+2. Go to Settings
+3. Find and tap on "Change Password" option
+
+### Changing Your Password
+
+1. Enter your current password to verify your identity
+2. Enter your new password (must meet password requirements)
+3. Confirm your new password by entering it again
+4. Tap "Save" or "Update" to complete the password change
+
+After successfully changing your password, you'll need to use the new password for future logins.
+
 ## Account Security
 
 - Your login credentials are stored securely
 - Password is encrypted and protected
 - Always log out when using the app on shared devices
 - Do not share your account credentials with others
+- Use the forgot password feature if you suspect your account has been compromised

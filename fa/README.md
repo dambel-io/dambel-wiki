@@ -6,8 +6,11 @@
     - [چت](chat.md)
     - [اعلان‌ ها](notifications.md)
     - [تنظیمات زبان](localization.md)
-- تمرین
+- قابلیت ها
     - [برنامه‌های غذایی](diet-plans.md)
     - [برنامه‌های تمرینی](workout-plans.md)
     - [سیستم ثبت عملکرد](tracker.md)
-- [درباره ما](about.md)
+    - [مربیان](trainers.md)
+    - [باشگاه ها](gyms.md)
+- اطلاعات بیشتر
+    - [درباره ما](about.md)

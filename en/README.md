@@ -6,8 +6,11 @@
     - [Chat](chat.md)
     - [Notifications](notifications.md)
     - [Language Settings](localization.md)
-- Training
+- Features
     - [Diet Plans](diet-plans.md)
     - [Workout Plans](workout-plans.md)
     - [Tracker System](tracker.md)
-- [About Us](about.md)
+    - [Trainers](trainers.md)
+    - [Gyms](gyms.md)
+- More Information
+    - [About Us](about.md)
