@@ -1,136 +1,35 @@
-# Localization Guide
+# Language Settings
 
-This guide explains how to change the app language in Dambel. The app supports both English and Persian languages and allows users to switch between them easily.
+The app speaks both English and Persian. Switch between them anytime you want – it takes about two seconds.
 
-## Overview
+![Language Settings](images/settings-language.png)
 
-Dambel supports multiple languages and automatically detects your device's language preference. You can change the language manually through the settings screen at any time.
+## Switching Languages
 
-## Supported Languages
+Head to Settings from the bottom navigation. You'll see a language option right at the top with a globe icon. Tap it and pick your language – either Persian (🇮🇷 فارسی) or English (🇺🇸 English). Your current language has a checkmark next to it.
 
-- **English (انگلیسی)**: Default language for international users
-- **Persian/Farsi (فارسی)**: Primary language for Persian users
+The moment you tap a language, everything switches over. All the text updates, and if you're switching to Persian, the whole interface flips to right-to-left. If you're going to English, it flips back to left-to-right. Your choice gets saved automatically, so next time you open the app, it'll be in the language you picked.
 
-## How to Change App Language
+## What Changes
 
-### Step 1: Navigate to Settings
+When you switch languages, pretty much everything adapts. All the buttons, labels, messages, and screens show up in your chosen language. The layout direction changes too – Persian reads right-to-left, English reads left-to-right. Even things like date formats adjust to match the language conventions.
 
-From the main app screen:
+The app defaults to Persian when you first install it, but after you make a choice, it remembers. Your language preference sticks around even if you close the app or restart your phone.
 
-1. Look for the **Settings** tab or option in the bottom navigation bar
-2. Tap on **Settings** to open the settings screen
+## AI Can Help
 
-You can also access settings from:
-- The **Profile** tab → Settings option
-- The **Profile menu** in the top right corner
+The AI assistant can switch languages for you. Just open it (tap the robot icon 🤖) while you're on the settings screen and say something like "Change language to English" or "Switch to Persian". The AI will handle it, and you'll see a notification when it's done.
 
-### Step 2: Find Language Settings
+## When Things Go Wrong
 
-In the settings screen, you'll see a **Language** section with:
-- A section header labeled "Language" (or "زبان" in Persian)
-- A language selection option showing your current language
+Language not switching? Make sure you actually tapped one of the language options in the dialog, not just opened it and closed it. If it's still stuck, try closing the app completely and opening it again.
 
-### Step 3: Select New Language
+Seeing some text that's not translated? Some newer features might still be getting their translations. Check if there's an app update available – we're always adding more complete translations.
 
-1. Tap on the **Language** or **Select Language** option
-2. A dialog will appear with language options:
-   - **🇮🇷 فارسی** for Persian/Farsi
-   - **🇺🇸 English** for English
-   
-   Your current language will be marked with a green checkmark ✓
+Layout looking weird after switching? Close and reopen the app. If that doesn't fix it, try clearing the app cache in your device settings. Still having issues? Reach out to support.
 
-3. Tap on the language you want to switch to
+## The Technical Bit
 
-### Step 4: Language Applied
+The app supports two languages: Persian (fa) and English (en). Your language choice is stored securely on your device. When you switch, the change happens instantly without needing to restart anything. The app also sends your language preference to the server so things like notifications and emails come in the right language.
 
-The language change will take effect immediately:
-- All text in the app will update to the selected language
-- The interface orientation will automatically adjust:
-  - **Persian**: Right-to-left (RTL) layout
-  - **English**: Left-to-right (LTR) layout
-- Your preference will be saved automatically
-
-## Visual Guide
-
-Here's what the language selection process looks like:
-
-![Language Selection Screen](images/settings-screen.png)
-
-**Settings Screen showing Language section**
-
-![Language Dialog](images/language-dialog.png)
-
-**Language selection dialog with current language marked**
-
-## Default Language Behavior
-
-- **First Launch**: The app defaults to Persian (Farsi)
-- **Device Language Detection**: Android and iOS devices will respect system language settings where possible
-- **Previous Selection**: Your last language choice is remembered and used for subsequent app launches
-
-## Language Indicators
-
-The app provides clear visual indicators:
-
-- **Flags**: 🇮🇷 (Persian) and 🇺🇸 (English) flags in selection dialogs
-- **Checkmarks**: Green checkmark ✓ next to the currently selected language
-- **Typography**: Different font rendering for various scripts (Latin vs Arabic/Persian)
-
-## Troubleshooting Language Issues
-
-### Language Not Changing
-
-If the language doesn't change after selection:
-
-1. **Ensure Complete Process**: Make sure you tapped a language option, not just opened the dialog
-2. **Check Internet Connection**: Language files are loaded from app resources, but ensure stable connection
-3. **Restart App**: Force close and reopen the app to refresh the interface
-4. **Update App**: Ensure you have the latest version of Dambel installed
-
-### Missing Translations
-
-If some text appears untranslated:
-
-1. **Partial Translation**: Some newer features might still be in development
-2. **Technical Terms**: Certain technical terms might remain in English for consistency
-3. **Update App**: Check for app updates that include more comprehensive translations
-
-### Interface Layout Issues
-
-If the layout looks wrong after language change:
-
-1. **Restart App**: Close and reopen the app completely
-2. **Clear Cache**: Clear app cache in device settings if problems persist
-3. **Report Issue**: Contact support if layout problems continue
-
-## Language-Specific Features
-
-### Persian Language Features
-- **RTL Layout**: The entire interface flips to right-to-left reading direction
-- **Persian Typography**: Optimized text rendering for Persian script
-- **Cultural Adaptation**: Date formats, number формаت, and cultural conventions
-
-### English Language Features
-- **LTR Layout**: Standard left-to-right interface layout
-- **International Standards**: English date and number formats
-- **Technical Terms**: English technical terminology maintained for clarity
-
-## Advanced Settings
-
-For developers and power users:
-
-- **Language Files**: Located in `src/lib/l10n/`
-- **Fallback Behavior**: Defaults to English if requested language unavailable
-- **Real-time Switching**: Language changes apply immediately without app restart
-- **Persistent Storage**: Language preference saved securely on device
-
-## Getting Help
-
-If you continue to have issues with language settings:
-
-1. **Check App Version**: Ensure you're running the latest version
-2. **Device Language**: Verify your device's primary language settings
-3. **Contact Support**: Reach out to our support team with specific details about your issue
-4. **Clear Data**: As a last resort, clear app data and reconfigure (you'll need to log in again)
-
-Remember that language preferences are personal settings, and changing them affects only your account on your device.
+If you're curious, the language files live in the app's localization folder, and there's a fallback to English if something goes wrong with loading translations.

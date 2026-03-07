@@ -1,334 +1,105 @@
-# Tracker System Guide
+# Tracker
 
-Welcome to the Tracker System in Dambel. This comprehensive guide will walk you through tracking your daily activities, including meals, workouts, sleep, weight, water intake, supplements, and more.
-
-## Overview
-
-The Tracker System allows you to log and monitor all aspects of your fitness journey. You can track multiple types of activities, view them in a unified timeline, and manage your data over time. The system supports both personal tracking and shared tracking with coaches or trainers.
-
-The tracker supports:
-- **Meals**: Log meals with nutritional information
-- **Workouts**: Track workout sessions with exercises and sets
-- **Sleep**: Record sleep times
-- **Wakeup**: Track wake-up times
-- **Weight**: Log body weight measurements
-- **Water**: Track daily water intake
-- **Supplements**: Record supplement intake
-
-## Accessing the Tracker
-
-You can access the tracker from multiple places:
-
-1. **Today Section**: View and log today's activities from the main dashboard
-2. **Tracker History**: View all past tracking records in chronological order
-3. **Workout Details**: Detailed view for individual workout sessions
+Your fitness journal lives here. Track everything from meals and workouts to sleep and water intake. Think of it as your personal log that keeps tabs on your progress and helps you stay consistent.
 
 ![Tracker Today Section](images/tracker-today.png)
 
-*The today section showing all tracker cards for quick access*
+## Getting There
+
+You've got two main spots to access your tracker. The "Today" section shows up on your main dashboard with quick cards for logging today's activities. For the full timeline of everything you've tracked, head to the Tracker History screen from the main menu.
 
 ## Today Section
 
-The Today section provides quick access to track today's activities:
+This is your quick-access hub for logging what's happening right now. Six colorful cards give you one-tap access to track different things.
 
-### Available Trackers
+Sleep (indigo card) shows your last sleep record and lets you log new ones. Weight (pink) displays your most recent weigh-in. Workout (red) shows if you've got an active workout going or lets you start a new one. Meals (green) tracks what you're eating throughout the day. Supplements (purple) logs your supplement intake. Water (cyan) counts your glasses and shows your daily progress.
 
-**Sleep** (Indigo):
-- Track sleep time
-- View last sleep record
-- Add new sleep entry
-
-**Weight** (Pink):
-- Log current weight
-- View last weight measurement
-- Track weight over time
-
-**Workout** (Red):
-- Start a new workout
-- View active workout
-- Access workout details
-
-**Meals** (Green):
-- Log meals
-- View meals logged today
-- Track nutritional intake
-
-**Supplements** (Purple):
-- Log supplement intake
-- View supplements taken today
-- Link to diet plan supplements
-
-**Water** (Cyan):
-- Track water intake by glasses
-- View daily water progress
-- Set water goals
-
-### Using Today Section
-
-1. Tap on any tracker card
-2. Fill out the tracking form
-3. Save to log the activity
-4. View your progress for the day
+Each card is designed to get you in and out fast. Tap one, fill in what you need, save, and you're done. The cards adapt to your screen size too – on phones you'll see them in a grid, on tablets and desktops they spread out for easier access.
 
 ## Tracker History
 
-The Tracker History screen shows all your tracking records in chronological order:
+This is where all your logged activities live in one continuous timeline. Everything's organized by date with the most recent stuff at the top.
 
-### Timeline View
+![Tracker History Timeline](images/tracker-history.png)
 
-**Date Headers**:
-- Records are grouped by date
-- Date headers show "Today", "Yesterday", or specific dates
-- Each date has an add button (+) to quickly log activities
+Each date gets its own header showing "Today", "Yesterday", or the actual date for older entries. Next to each date header there's a + button – tap it to quickly log something for that specific day. Handy when you forgot to track something earlier.
 
-**Activity Cards**:
-Each activity is displayed as a card with:
-- **Icon**: Color-coded icon for activity type
-- **Title**: Activity name or description
-- **Details**: Relevant information (weight, duration, etc.)
-- **Timestamp**: When the activity occurred
-- **Actions**: Edit and delete buttons (if available)
+Your activities show up as cards with color-coded icons matching the today section. Meals are green, workouts are red, sleep is indigo, you get the idea. Each card shows the relevant details – meal notes and nutrition info, workout duration, weight measurements, water glass count, whatever makes sense for that activity type.
 
-![Tracker History](images/tracker-history.png)
+If you can edit or delete an activity, you'll see little pencil and trash icons on the card. Tap the pencil to make changes, tap the trash to delete (you'll get a confirmation prompt first, since there's no undo).
 
-*The tracker history showing a timeline of all activities with date headers*
+### Viewing Someone Else's Data
 
-### Activity Types
+Got a coach or trainer who's shared their tracking data with you? Or maybe you're a coach viewing a client's logs? There's a dropdown at the top of the history screen that lets you switch between viewing your own data and any shared trackers you have access to.
 
-**Meals**:
-- Shows meal notes or nutritional information
-- Displays protein, carbs, fat, and calories if available
-- Green color theme
-
-**Sleep**:
-- Shows sleep notes
-- Indigo color theme
-
-**Wakeup**:
-- Shows wakeup notes
-- Indigo color theme
-
-**Water**:
-- Shows glass count
-- Displays notes if available
-- Cyan color theme
-
-**Weight**:
-- Shows weight in kilograms
-- Displays notes if available
-- Pink color theme
-
-**Supplements**:
-- Shows supplement notes
-- Purple color theme
-
-**Workouts**:
-- Shows workout title
-- Displays duration if workout is finished
-- Shows notes if available
-- Red color theme
-- Tap to view detailed workout information
-
-### Adding Activities
-
-To add an activity from history:
-
-1. Find the date header for the desired date
-2. Tap the **+ (plus)** button next to the date
-3. Select activity type from the menu
-4. Fill out the form
-5. Save to log the activity
-
-### Editing Activities
-
-1. Tap the **edit icon** (pencil) on any activity card
-2. Modify the information
-3. Save changes
-
-**Note**: You can only edit activities you created.
-
-### Deleting Activities
-
-1. Tap the **delete icon** (trash) on any activity card
-2. Confirm deletion
-3. The activity will be permanently removed
-
-**Note**: Deleting cannot be undone.
+When you're viewing someone else's data, everything goes read-only. You can see their timeline but you can't add, edit, or delete anything. All the action buttons disappear. Switch back to "Me" in the dropdown to get back to your own data.
 
 ## Workout Details
 
-When you tap on a workout in the history, you'll see the detailed workout screen:
+Workouts get their own detailed screen since there's more to track than just "I worked out today". Tap any workout card in your history to see the full breakdown.
 
-### Workout Information
+At the top you'll see a duration timer. If the workout's still active, it counts up in real-time. Finished workouts show the total time you spent.
 
-**Duration Timer**:
-- Shows elapsed time for active workouts
-- Updates in real-time
-- Displays total duration for finished workouts
-
-**Exercises Section**:
-- Lists all exercises performed
-- Shows sets with weight and reps
-- Displays rest time between sets
-- Organizes exercises from workout plan if linked
-
-**Workout Plan Integration**:
-- If workout is linked to a plan session, shows planned exercises
-- Checkboxes indicate completed exercises
-- Can add sets directly from plan exercises
+Below that is where all your exercises and sets live. Each exercise you performed shows up with its sets listed underneath – weight, reps, rest time between sets, all that good stuff. If you linked the workout to a workout plan session, you'll see the planned exercises with checkboxes showing what you've completed.
 
 ### Adding Sets
 
-1. Tap **"Add Exercise"** button or the + icon on a plan exercise
-2. Select exercise from dropdown (if not from plan)
-3. Enter weight (optional)
-4. Enter reps
-5. Start and end times are auto-calculated
-6. Add notes (optional)
-7. Save the set
+Hit the "Add Exercise" button to log a new set. If your workout is linked to a plan, you can also tap the + icon next to any planned exercise to quickly add a set for that exercise.
 
-### Editing Sets
+Pick your exercise from the dropdown (or it's pre-selected if you tapped from a plan exercise), enter the weight and reps, add any notes you want, and save. Start and end times get calculated automatically based on when you add the set.
 
-1. Tap on any set card or tap edit icon
-2. Modify weight, reps, times, or notes
-3. Save changes
+### Editing and Deleting Sets
 
-### Deleting Sets
-
-1. Tap the delete icon on a set
-2. Confirm deletion
-3. The set will be removed
+Tap any set card to edit it. Change the weight, reps, times, or notes, then save. To delete a set, tap the trash icon and confirm.
 
 ### Finishing a Workout
 
-1. Tap **"End Workout"** button
-2. Confirm ending the workout
-3. End time is automatically set to current time
-4. Workout is marked as finished
+When you're done, hit the "End Workout" button. The end time gets set to right now and the workout is marked as finished. The timer stops and shows your total duration.
 
-### Workout Metadata
+You can still edit workout details even after it's finished – change the title, adjust the start or end times, update notes, or link it to a different workout plan session. The metadata stays editable, you just can't add more sets once it's done.
 
-You can edit:
-- **Start Time**: When workout began
-- **End Time**: When workout ended (for finished workouts)
-- **Workout Title**: Name of the workout
-- **Workout Plan Session**: Link to a workout plan session
-- **Notes**: Additional information
+## Tracking Different Activities
 
-## Shared Tracking
+Each activity type has its own form with fields that make sense for what you're tracking.
 
-If tracking data has been shared with you, you can view it:
+Meals let you log notes, link to a diet plan meal (which auto-fills nutrition info), and manually enter protein, carbs, fat, and calories. There's a "cheat meal" checkbox too if you're tracking those separately.
 
-### Viewing Shared Data
+Sleep and wakeup just need a time and optional notes. Simple.
 
-1. In Tracker History, use the **"View As"** dropdown at the top
-2. Select **"Me"** for your own data or a shared tracker name
-3. The timeline updates to show that person's data
+Weight asks for your weight in kilograms and optional notes.
 
-**Read-Only Mode**:
-- When viewing shared data, you cannot add, edit, or delete records
-- All action buttons are hidden
-- You can only view the data
+Water is even simpler – just the number of glasses and optional notes.
 
-## AI Assistant Integration
+Supplements need you to pick which supplement from a dropdown, optionally link it to a diet plan supplement, and add notes.
 
-The Tracker screens integrate with the AI Assistant:
+Workouts need a title, start time, and optional end time. You can link them to a workout plan session, which pulls in the planned exercises. Notes are optional.
 
-**AI Can Help**:
-- Suggest activities to log
-- Help fill out tracking forms
-- Analyze your tracking patterns
-- Provide insights on your progress
+## AI Assistant
 
-**How to Use**:
-1. Open AI Assistant while viewing tracker (tap robot icon 🤖)
-2. Ask for help: "What should I track today?"
-3. AI provides guidance based on your goals
-4. Use AI suggestions to log activities
+The AI assistant can help you track things faster. Open it (tap the robot icon 🤖) while you're on any tracker screen and tell it what you want to log. "Log a meal with 30g protein and 40g carbs" or "Start a workout" works great. The AI will open the right form and fill in what it can, then you just review and save.
 
-## Troubleshooting
+## When Things Go Wrong
 
-### Activities Not Loading
+Timeline not loading? Check your internet connection and pull down to refresh.
 
-**Solutions**:
-1. Check internet connection
-2. Pull down to refresh
-3. Check if you're viewing shared data (read-only mode)
-4. Logout and login again
-5. Contact support if issue persists
+Can't add activities? Make sure you're not in read-only mode (viewing someone else's data). Check that you've filled in all required fields.
 
-### Cannot Add Activities
+Activities not saving? Look for error messages on the form fields. Common issues are invalid date formats, missing required fields, or network problems. The app expects dates in YYYY-MM-DD HH:MM:SS format.
 
-**Solutions**:
-1. Ensure you're not in read-only mode (viewing shared data)
-2. Check that all required fields are filled
-3. Try again after a moment
-4. Contact support if issue persists
+Workout sets not adding? Make sure the workout itself is saved first. You need to select an exercise and enter at least the reps. Weight is optional.
 
-### Cannot Edit/Delete Activities
+Shared tracker dropdown not showing? You might not have any shared trackers set up. Check with your coach if you think you should have access to their data.
 
-**Solutions**:
-1. Ensure you're not viewing shared data (read-only)
-2. Check that the activity belongs to you
-3. Try refreshing the page
-4. Contact support if issue persists
+## Tips
 
-### Workout Not Saving
+Track things as soon as they happen. It's easier to remember details when they're fresh. The today section makes this quick – just tap, fill, save.
 
-**Solutions**:
-1. Ensure workout title is filled
-2. Check start time format (YYYY-MM-DD HH:MM:SS)
-3. Verify end time format if provided
-4. Check for validation errors
-5. Try saving again
+For workouts, start the workout when you begin and add sets as you complete them. This gives you accurate timing and makes it easier to track rest periods.
 
-### Sets Not Adding
+Use notes liberally. Future you will appreciate the context. "Felt strong today" or "Lower back was tight" can help you spot patterns over time.
 
-**Solutions**:
-1. Ensure exercise is selected
-2. Verify reps is a positive number
-3. Check that workout is saved first
-4. Try refreshing and adding again
+If you're working with a coach, consistent tracking gives them better data to work with. They can see what's actually happening and adjust your program accordingly.
 
-## Best Practices
+The timeline is searchable by scrolling, but if you're looking for patterns, the AI assistant can help analyze your data. Just ask it questions like "How many workouts did I do this week?" or "What's my average protein intake?"
 
-### Daily Tracking
-
-- Log activities as soon as possible after they occur
-- Be consistent with tracking times
-- Add notes for context or observations
-- Review your tracking data regularly
-
-### Workout Tracking
-
-- Start workout when you begin exercising
-- Add sets as you complete them
-- Log accurate weights and reps
-- Add notes about form or difficulty
-- End workout when finished
-
-### Nutrition Tracking
-
-- Log meals promptly after eating
-- Include all nutritional information when available
-- Link meals to diet plan meals when applicable
-- Track supplements with meals
-
-### Data Management
-
-- Review history regularly to spot patterns
-- Use shared tracking for accountability
-- Keep notes detailed for future reference
-- Clean up duplicate or incorrect entries
-
-## Getting Help
-
-If you need assistance:
-
-1. **AI Assistant**: Ask for help (tap robot icon 🤖)
-2. **In-App Support**: Check support options in settings
-3. **Documentation**: Browse other help articles
-4. **Contact Support**: Reach out to Dambel support team
-
-The tracker system is your fitness journal. Use it consistently to monitor your progress and achieve your goals!
-
+Need help? The AI assistant is always available (tap that robot icon 🤖), or check the support options in settings.

@@ -1,152 +1,57 @@
-# Authentication Guide
+# Getting Started
 
-Welcome to Dambel's authentication system. This guide will walk you through the process of logging in and registering for a new account in the Dambel app.
+Your journey with Dambel starts here. Whether you're signing up for the first time or logging back in, we've got you covered.
 
-## Overview
+## Signing Up
 
-Dambel uses a phone number-based authentication system where you can create an account using your phone number and access all features of the app. The authentication is secure and your information is protected.
-
-## How to Login
-
-### Step 1: Access the Login Screen
-
-When you open the Dambel app for the first time or if you're not logged in, you'll see the login screen.
-
-![Login Screen](images/login-screen.png)
-
-### Step 2: Enter Your Credentials
-
-The login screen has a simple form with only two required fields:
-
-1. **Phone Number**: Enter your registered phone number (minimum 10 digits)
-2. **Password**: Enter your account password (minimum 6 characters)
-
-### Step 3: Tap Login
-
-After entering your credentials, tap the "Login" button to sign in to your account.
-
-### Step 4: Access Main App
-
-Once successfully logged in, you'll be automatically redirected to the main app interface where you can access all features.
-
-## How to Register
-
-### Step 1: Access the Registration Screen
-
-From the login screen, you can access the registration screen by tapping "Sign Up" at the bottom.
+New to Dambel? Here's how to get your account set up.
 
 ![Register Screen](images/register-screen.png)
 
-### Step 2: Fill Out Registration Form
+From the login screen, tap "Sign Up" at the bottom. You'll see a registration form with a few fields to fill out.
 
-The registration form requires the following information:
+The essentials are your phone number (at least 10 digits), a username (minimum 3 characters, and it needs to be unique), and a password (at least 8 characters). You'll need to type your password twice to make sure it matches.
 
-#### Required Fields:
-- **Phone Number**: Your mobile phone number (minimum 10 digits)
-- **Username**: Choose a unique username (minimum 3 characters)
-- **Password**: Create a secure password (minimum 6 characters)
-- **Confirm Password**: Re-enter your password to confirm it matches
+Everything else is optional. You can add your email if you want (it needs to be a valid email format if you do), plus your first and last name. There's also a referral code field if someone invited you to join.
 
-#### Optional Fields:
-- **Email**: Your email address (optional, but if provided must be valid format)
-- **First Name**: Your first name (optional)
-- **Last Name**: Your last name (optional)
+Once you've filled everything out, hit "Register". The app will send a 6-digit verification code to your phone via SMS. When it arrives, enter it in the confirmation code field that appears, then tap "Verify and Register".
 
-### Step 3: Submit Registration
+If everything checks out, you're in. The app logs you in automatically and takes you straight to the main screen.
 
-After filling out the form, tap the "Register" button to create your account.
+## Logging In
 
-### Step 4: Phone Confirmation Code
+Already have an account? Just enter your phone number and password, then tap "Sign In". That's it.
 
-After submitting the registration form, you'll receive a confirmation code via SMS to the phone number you provided. Enter this code to verify your phone number and complete the registration process.
+![Login Screen](images/login-screen.png)
 
-### Step 5: Automatic Login
+The password needs to be at least 8 characters. If you get it wrong, the app will let you know what went wrong.
 
-Once your phone number is verified and your account is successfully created, you'll be automatically logged in and redirected to the main app.
+## Forgot Your Password
 
-## Password Requirements
+It happens. Tap "Forgot Password" on the login screen.
 
-- Your password must be at least 6 characters long
-- Choose a password that combines letters, numbers, and special characters for better security
-- Confirm your password exactly in the confirmation field
+Enter your phone number and hit "Send Reset Code". You'll get a 6-digit code via SMS. Enter that code along with your new password (twice to confirm), then tap "Reset Password".
 
-## Phone Number Requirements
+Your password gets updated and you can log in with the new one right away.
 
-- Enter your phone number without country code
-- The phone number should be at least 10 digits long
-- Ensure the phone number is active as it may be used for account recovery
+## When Things Go Wrong
 
-## Troubleshooting
+Can't log in? Double-check your phone number and password. Make sure you've got a stable internet connection. If you're still stuck, try the forgot password flow.
 
-### Login Issues
+Registration not working? The most common issues are username already taken, passwords not matching, or an invalid email format. The app will show you specific error messages for each field that needs fixing.
 
-If you're having trouble logging in:
+Didn't get the verification code? Give it a minute – sometimes SMS takes a bit. Check that you entered your phone number correctly. If it still doesn't show up, try registering again.
 
-1. **Check your phone number**: Ensure you're entering the correct phone number used during registration
-2. **Verify password**: Make sure your password is entered correctly
-3. **Check internet connection**: Ensure you have a stable internet connection
-4. **Try again**: If there's a temporary error, wait a few moments and try again
+Code expired or wrong? Request a new one by going through the registration process again with the same phone number.
 
-### Registration Issues
+## A Few Notes
 
-If you're having trouble registering:
+Your phone number is your login ID, so make sure it's one you have access to. The app uses it for verification and password resets.
 
-1. **Check required fields**: Ensure all required fields are filled out
-2. **Password confirmation**: Make sure both password fields match exactly
-3. **Username availability**: The username you chose might already be taken, try a different one
-4. **Internet connection**: Ensure you have a stable internet connection
+Passwords are encrypted and stored securely. We can't see them, which is why there's a reset process instead of a "show me my password" button.
 
-## Forgot Password
+Username needs to be unique across all users. If the one you want is taken, try adding numbers or underscores.
 
-If you've forgotten your password, you can reset it using the forgot password feature:
+Email is completely optional, but if you add one, it needs to be properly formatted (something@something.com).
 
-### Step 1: Access Forgot Password
-
-From the login screen, tap on "Forgot Password" or the similar link provided.
-
-### Step 2: Enter Phone Number
-
-Enter the phone number associated with your account.
-
-### Step 3: Receive Verification Code
-
-You'll receive a verification code via SMS to your registered phone number.
-
-### Step 4: Enter Verification Code
-
-Enter the verification code you received to verify your identity.
-
-### Step 5: Set New Password
-
-Once verified, you'll be able to set a new password for your account. Make sure to choose a strong password that meets the password requirements.
-
-### Step 6: Login with New Password
-
-After successfully resetting your password, you can log in using your phone number and the new password.
-
-## Change Password
-
-You can change your password at any time from the Settings page:
-
-### Accessing Change Password
-
-1. Navigate to the Profile section of the app
-2. Go to Settings
-3. Find and tap on "Change Password" option
-
-### Changing Your Password
-
-1. Enter your current password to verify your identity
-2. Enter your new password (must meet password requirements)
-3. Confirm your new password by entering it again
-4. Tap "Save" or "Update" to complete the password change
-
-After successfully changing your password, you'll need to use the new password for future logins.
-
-## Account Security
-
-- Your login credentials are stored securely
-- Password is encrypted and protected
-- Always log out when using the app on shared devices
-- Do not share your account credentials with others
-- Use the forgot password feature if you suspect your account has been compromised
+Once you're logged in, you stay logged in until you explicitly log out or clear the app data. No need to sign in every time you open the app.

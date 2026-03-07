@@ -1,275 +1,84 @@
-# Diet Plans Guide
+# Diet Plans
 
-Welcome to the Diet Plans section of Dambel. This comprehensive guide will walk you through all features of diet plans, including viewing plans, managing meals, tracking supplements, and understanding nutritional information.
-
-## Overview
-
-The Diet Plans section allows you to create, view, and manage personalized nutrition plans. Each diet plan contains meals with detailed nutritional information (protein, carbohydrates, fat, calories) and optional supplements. You can track your daily water intake target and organize meals by meal index.
-
-Diet plans serve multiple purposes:
-- **Nutritional Planning**: Structure your daily meals with specific macronutrient targets
-- **Meal Management**: Add, edit, and organize meals with ingredients and descriptions
-- **Supplement Tracking**: Include supplements with specific amounts and timing
-- **Water Goals**: Set and track daily water intake targets
-- **Active Plan Management**: Mark plans as active or inactive
-
-## Accessing Diet Plans
-
-You can access diet plans from the Training page:
-
-1. Navigate to the **Training** section from the main navigation
-2. Select the **"Diet Plans"** tab at the top
-3. You'll see a list of all available diet plans
+Your diet plans are where you map out your nutrition game. Think of them as your meal blueprints – complete with macros, ingredients, supplements, and even your daily water goals.
 
 ![Diet Plans List](images/diet-plans-list.png)
 
-*The diet plans list showing all available plans with meal counts and supplement badges*
+## Getting There
 
-## Viewing Diet Plans
+Head to the Training section from the main navigation, then tap the "Diet Plans" tab at the top. You'll see all your nutrition plans laid out.
 
-The diet plans list displays all plans you have access to:
+## What You'll See
 
-**Plan Information**:
-- **Title**: The name of the diet plan
-- **Description**: Optional description of the plan
-- **Meal Count**: Number of meals in the plan (displayed as a badge)
-- **Supplement Count**: Number of supplements (if available)
-- **Active Status**: Indicates if the plan is currently active
+Each diet plan card shows the plan title and description (if you added one). There's a badge showing how many meals are in the plan, and if you've got supplements, you'll see a count for those too. Active plans get a special badge so you know which one you're currently following. Plans with a daily water target show that in liters.
 
-**Empty State**:
-If no diet plans exist, you'll see a message: "No diet plans yet" with an option to create your first plan.
+If you don't have any plans yet, you'll see an empty state inviting you to create your first one. Got a bunch of plans? Pagination controls at the bottom let you browse through them.
 
-**Pagination**:
-If you have many plans, use pagination controls at the bottom to navigate through pages.
+## Opening a Plan
 
-## Opening a Diet Plan
-
-Tap on any diet plan card to open the detailed view. The detail screen shows:
-
-### Plan Header
-
-The plan header displays:
-- **Title**: The plan name (editable)
-- **Description**: Optional plan description (editable)
-- **Target Daily Water**: Daily water intake goal in liters (editable)
-- **Active Status**: Checkbox to mark plan as active or inactive
+Tap any plan card to dive into the details.
 
 ![Diet Plan Detail](images/diet-plan-detail.png)
 
-*The diet plan detail screen showing plan information, meals section, and supplements section*
+At the top, you've got the plan basics: title, description, your daily water target in liters, and a checkbox to mark it as active. Hit the pencil icon next to the title to edit any of these. Title is the only required field – everything else is optional. When you're done editing, tap "Save" or "Cancel" to bail.
 
-### Meals Section
+Below that, the screen splits into two main sections: Meals and Supplements.
 
-The Meals section displays all meals in the plan:
+## Meals
 
-**Meal Information**:
-- **Title**: Name of the meal
-- **Ingredients**: List of ingredients
-- **Description**: Optional meal description or instructions
-- **Nutritional Values**: Protein, carbs, fat, and calories in grams/kilocalories
-- **Meal Index**: Order number for the meal in the day
+This is where your actual food lives. Each meal card shows the meal name, ingredients list, and any description you added (like cooking notes or timing). You'll see nutritional chips displaying protein, carbs, fat, and calories – all in grams except calories which are in kilocalories. There's also a meal index number that determines the order (1 for breakfast, 2 for lunch, and so on).
 
-**Meal Display**:
-Each meal shows:
-- Title in bold
-- Ingredients list
-- Description (if provided)
-- Nutritional chips showing protein, carbs, fat, calories, and meal index
+At the bottom of the meals section, there's a totals card that adds up all your macros across every meal. Handy for seeing if you're hitting your daily targets.
 
-**Totals Section**:
-At the bottom of the meals list, you'll see a totals card showing:
-- Total protein (grams)
-- Total carbohydrates (grams)
-- Total fat (grams)
-- Total calories (kilocalories)
+No meals yet? You'll see an empty state with an "Add Meal" button.
 
-**Empty State**:
-If no meals exist, you'll see: "No meals yet" with an "Add Meal" button.
+### Adding & Editing Meals
 
-### Supplements Section
+Tap "Add Meal" to create a new one. You'll need to fill in the meal name, ingredients, and all the nutritional values (protein, carbs, fat, calories). Description is optional. The meal index determines where it sits in your day – use 1 for your first meal, 2 for the second, and so on.
 
-The Supplements section displays all supplements in the plan:
+To edit an existing meal, tap the pencil icon on its card. Make your changes and save. Want to delete one? Tap the trash icon and confirm. Just know that deleting is permanent – there's no undo.
 
-**Supplement Information**:
-- **Supplement Name**: Selected from available supplements
-- **Amount**: Quantity of supplement
-- **Amount Unit**: Unit of measurement (e.g., "g", "ml", "capsule", "tablet")
-- **After Meal Index**: Which meal number to take the supplement after
-- **Description**: Optional notes about the supplement
+### AI Can Help
 
-**Empty State**:
-If no supplements exist, you'll see: "No supplements yet" with an "Add Supplement" button.
+The AI assistant can fill out meal forms for you. Open it (tap the robot icon) while you're on the diet plan screen and tell it what you want. Something like "Add a high-protein breakfast with eggs and oats" works great. The AI will populate all the fields including nutritional values, then you can review and save. You'll see a blue notification when the AI updates something.
 
-## Editing a Diet Plan
+The AI can also delete meals if you ask it to, but it'll always confirm with you first.
 
-To edit plan information:
+## Supplements
 
-1. Tap the **edit icon** (pencil) next to the title field
-2. Modify the title, description, target daily water, or active status
-3. Tap **"Save"** to save changes or **"Cancel"** to discard
+If you're taking supplements, this section ties them to your meals. Each supplement card shows the supplement name, amount with its unit (grams, milliliters, capsules, tablets), and which meal to take it after. There's also an optional description field for notes like "take with food" or "before workout".
 
-**Validation**:
-- Title is required
-- Target daily water must be a positive number (if provided)
+The "after meal index" field links the supplement to a specific meal number. So if you want to take creatine after your first meal, you'd set it to 1.
 
-## Managing Meals
+### Adding & Editing Supplements
 
-### Adding a Meal
+Tap "Add Supplement" to create a new one. Pick the supplement from the dropdown (these come from a global list), enter the amount and unit, specify which meal to take it after, and optionally add a description.
 
-1. In the Meals section, tap the **"Add Meal"** button
-2. Fill out the meal form:
-   - **Title** (Required): Name of the meal
-   - **Ingredients** (Required): List of ingredients
-   - **Description** (Optional): Additional notes or instructions
-   - **Protein** (Required): Protein in grams (must be ≥ 0)
-   - **Carbs** (Required): Carbohydrates in grams (must be ≥ 0)
-   - **Fat** (Required): Fat in grams (must be ≥ 0)
-   - **Calories** (Required): Calories in kilocalories (must be ≥ 0)
-   - **Meal Index** (Required): Order number (must be ≥ 0)
-3. Tap **"Save"** to create the meal
+Editing and deleting work the same as meals – pencil icon to edit, trash icon to delete with confirmation. The AI can help with supplements too, just like with meals.
 
-### Editing a Meal
+## Refreshing
 
-1. Tap the **edit icon** (pencil) on any meal card
-2. Modify the fields as needed
-3. Tap **"Save"** to update or **"Cancel"** to discard changes
+Pull down from the top of the list to refresh and load the latest data. Useful if you just made changes from another device or if something's not loading right.
 
-### Deleting a Meal
+## When Things Go Wrong
 
-1. Tap the **delete icon** (trash) on any meal card
-2. Confirm deletion in the dialog
-3. The meal will be permanently removed
+Plans not loading? Check your internet connection and try pulling down to refresh. If you see an error screen, there's usually a "Retry" button. Still stuck? Try logging out and back in.
 
-**Note**: Deleting a meal cannot be undone.
+Can't edit a plan? Make sure you're logged in and that you have editing access. Sometimes closing and reopening the app helps.
 
-## Managing Supplements
+Changes not saving? Look for red error messages on the fields – they'll tell you what's wrong. Common issues are missing required fields or invalid numbers. Make sure you've got a stable internet connection too.
 
-### Adding a Supplement
+Meals or supplements not showing up? Give them a moment to load – sometimes they take a bit. Pull down to refresh if they're stuck. If it keeps happening, reach out to support.
 
-1. In the Supplements section, tap the **"Add Supplement"** button
-2. Fill out the supplement form:
-   - **Supplement** (Required): Select from available supplements dropdown
-   - **Amount** (Required): Quantity (must be ≥ 0)
-   - **Amount Unit** (Required): Unit of measurement
-   - **After Meal Index** (Required): Meal number to take after (must be ≥ 0)
-   - **Description** (Optional): Additional notes
-3. Tap **"Save"** to create the supplement
+AI not updating the form? Make sure you're on the diet plan detail screen when you ask for help, and be specific about what you want. "Add a breakfast meal with 30g protein" works better than "add a meal". If it's still not working, try closing and reopening the AI assistant.
 
-### Editing a Supplement
+## Tips
 
-1. Tap the **edit icon** (pencil) on any supplement card
-2. Modify the fields as needed
-3. Tap **"Save"** to update or **"Cancel"** to discard changes
+Keep your meal index numbers organized – they determine the order of your meals throughout the day. Include detailed ingredients so you know exactly what to prep. Use the description field for cooking notes or timing reminders.
 
-### Deleting a Supplement
+For supplements, make sure the "after meal index" matches an actual meal in your plan. Use clear units (g, ml, capsule, tablet) so there's no confusion.
 
-1. Tap the **delete icon** (trash) on any supplement card
-2. Confirm deletion in the dialog
-3. The supplement will be permanently removed
+Only mark one plan as active at a time – that's the one you're currently following. Set realistic water targets you can actually hit. Update your plans as your goals change.
 
-## AI Assistant Integration
-
-The Diet Plan detail screen integrates with the AI Assistant:
-
-**AI Can Help**:
-- Fill out meal forms with nutritional information
-- Suggest meal combinations based on goals
-- Calculate nutritional totals
-- Organize meals by meal index
-- Add supplements based on diet plan requirements
-
-**How to Use**:
-1. Open AI Assistant while viewing a diet plan (tap robot icon 🤖)
-2. Ask for help: "Add a high-protein breakfast meal"
-3. AI automatically populates form fields
-4. Review and adjust as needed
-5. Save when satisfied
-
-A blue notification appears when AI updates the form: "AI updated the form"
-
-## Troubleshooting
-
-### Plans Not Loading
-
-**Solutions**:
-1. Check internet connection
-2. Pull down to refresh
-3. Tap "Retry" button if error screen appears
-4. Logout and login again
-5. Contact support if issue persists
-
-### Cannot Edit Plan
-
-**Solutions**:
-1. Ensure you're logged in
-2. Close and reopen the app
-3. Check that the plan belongs to you or you have editing access
-4. Contact support if issue persists
-
-### Meals Not Loading
-
-**Solutions**:
-1. Verify stable internet connection
-2. Pull down to refresh
-3. Check error message for specific issues
-4. Contact support if issue persists
-
-### Cannot Add/Edit/Delete Meals
-
-**Solutions**:
-1. Ensure all required fields are filled
-2. Check validation errors (red messages on fields)
-3. Verify you have editing access to the plan
-4. Try again after a moment
-5. Contact support if issue persists
-
-### Supplements Not Loading
-
-**Solutions**:
-1. Verify stable internet connection
-2. Pull down to refresh
-3. Contact support if issue persists
-
-### Cannot Add/Edit/Delete Supplements
-
-**Solutions**:
-1. Ensure supplement is selected from dropdown
-2. Check all required fields are filled
-3. Verify amount and after meal index are valid numbers
-4. Verify you have editing access to the plan
-5. Contact support if issue persists
-
-## Best Practices
-
-### Organizing Meals
-
-- Use meal index to order meals chronologically (1 = breakfast, 2 = lunch, etc.)
-- Include detailed ingredients for meal preparation
-- Add descriptions for cooking instructions or special notes
-- Keep nutritional values accurate
-
-### Managing Supplements
-
-- Set appropriate "after meal index" to indicate timing
-- Use clear amount units (g, ml, capsule, tablet)
-- Add descriptions for special instructions
-- Coordinate supplements with meal timing
-
-### Plan Management
-
-- Mark only one plan as active at a time
-- Set realistic water intake targets
-- Keep plan descriptions informative
-- Update plans as your goals change
-
-## Getting Help
-
-If you need assistance:
-
-1. **AI Assistant**: Ask for help (tap robot icon 🤖)
-2. **In-App Support**: Check support options in settings
-3. **Documentation**: Browse other help articles
-4. **Contact Support**: Reach out to Dambel support team
-
-Diet plans are an essential part of your fitness journey. Use them to structure your nutrition and achieve your goals!
+If you need help, the AI assistant is always there (tap that robot icon), or check out the support options in settings.
 

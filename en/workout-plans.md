@@ -1,278 +1,100 @@
-# Workout Plans Guide
+# Workout Plans
 
-Welcome to the Workout Plans section of Dambel. This comprehensive guide will walk you through all features of workout plans, including viewing plans, managing sessions, organizing exercises, and understanding super sets.
-
-## Overview
-
-The Workout Plans section allows you to create, view, and manage structured workout programs. Each workout plan contains sessions organized by day of the week, with exercises that include sets, reps, and optional descriptions. Exercises can be organized into super sets for efficient training.
-
-Workout plans serve multiple purposes:
-- **Program Structure**: Organize workouts by day of the week
-- **Exercise Management**: Add exercises with specific set and rep counts
-- **Super Set Organization**: Group related exercises together
-- **Session Planning**: Create workout sessions for specific days
-- **Active Plan Management**: Mark plans as active or inactive
-
-## Accessing Workout Plans
-
-You can access workout plans from the Training page:
-
-1. Navigate to the **Training** section from the main navigation
-2. Select the **"Workout Plans"** tab at the top
-3. You'll see a list of all available workout plans
+Workout plans are where you build your training program. Think of them as your workout blueprint – sessions organized by day of the week, exercises with sets and reps, all structured to keep you on track.
 
 ![Workout Plans List](images/workout-plans-list.png)
 
-*The workout plans list showing all available plans with session counts*
+## Getting There
 
-## Viewing Workout Plans
+Head to the Training section from the main navigation, then tap the "Workout Plans" tab at the top. You'll see all your plans listed out.
 
-The workout plans list displays all plans you have access to:
+## What You'll See
 
-**Plan Information**:
-- **Title**: The name of the workout plan
-- **Description**: Optional description of the plan
-- **Session Count**: Number of sessions in the plan (displayed as a badge)
-- **Active Status**: Indicates if the plan is currently active
+Each plan shows its title, description (if you added one), and how many sessions it has. There's also an indicator if the plan is currently active. If you don't have any plans yet, you'll see an empty state inviting you to create your first one.
 
-**Empty State**:
-If no workout plans exist, you'll see a message: "No workout plans yet" with an option to create your first plan.
+Got a bunch of plans? Use the pagination controls at the bottom to browse through them.
 
-**Pagination**:
-If you have many plans, use pagination controls at the bottom to navigate through pages.
+## Opening a Plan
 
-## Opening a Workout Plan
-
-Tap on any workout plan card to open the detailed view. The detail screen shows:
-
-### Plan Header
-
-The plan header displays:
-- **Title**: The plan name (editable)
-- **Description**: Optional plan description (editable)
-- **Active Status**: Checkbox to mark plan as active or inactive
+Tap any plan card to dive into the details.
 
 ![Workout Plan Detail](images/workout-plan-detail.png)
 
-*The workout plan detail screen showing plan information and sessions section*
+At the top, you'll see the plan's title, description, and an active status checkbox. Want to mark this as your current plan? Just check that box. You can edit these details anytime by tapping the pencil icon, making your changes, and hitting "Save". Title is the only required field.
 
-### Sessions Section
+Below that is where your sessions live.
 
-The Sessions section displays all workout sessions in the plan:
+## Sessions
 
-**Session Information**:
-- **Title**: Name of the session (e.g., "Push Day", "Leg Day")
-- **Day**: Day of the week (Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday)
-- **Description**: Optional session description
-- **Exercises**: List of exercises in the session
+Sessions are your individual workout days. Each one has a title (like "Push Day" or "Leg Day"), a day of the week, an optional description, and a list of exercises.
 
-**Session Display**:
-Each session shows:
-- Title in bold
-- Day of the week below the title
-- Description (if provided)
-- Exercises list with set/rep information
+When you open a session, you'll see all this info laid out clearly. The title is bold, the day is right below it, and if there's a description, that shows up too. Then comes the exercises list with all the set and rep details.
 
-**Empty State**:
-If no sessions exist, you'll see: "No sessions yet" with an "Add Session" button.
-
-## Editing a Workout Plan
-
-To edit plan information:
-
-1. Tap the **edit icon** (pencil) next to the title field
-2. Modify the title, description, or active status
-3. Tap **"Save"** to save changes or **"Cancel"** to discard
-
-**Validation**:
-- Title is required
-
-## Managing Sessions
+No sessions yet? You'll see a friendly message with an "Add Session" button.
 
 ### Adding a Session
 
-1. In the Sessions section, tap the **"Add Session"** button
-2. Fill out the session form:
-   - **Session Title** (Required): Name of the session
-   - **Day** (Required): Select day of the week from dropdown
-   - **Description** (Optional): Additional notes about the session
-3. Tap **"Save"** to create the session
+Tap "Add Session" in the sessions section. Fill in the session title (required), pick a day from the dropdown (Saturday through Friday), and add a description if you want. Hit "Save" and you're done.
 
-**Note**: You must save the session before adding exercises to it.
+You need to save the session before you can add exercises to it.
 
-### Editing a Session
+### Editing & Deleting
 
-1. Tap the **edit icon** (pencil) on any session card
-2. Modify the fields as needed
-3. Tap **"Save"** to update or **"Cancel"** to discard changes
+Tap the pencil icon on any session to edit it. Change whatever you need and save. Want to delete it? Tap the trash icon and confirm. Just know that deleting a session wipes out all its exercises too, and there's no undo.
 
-### Deleting a Session
+## Exercises
 
-1. Tap the **delete icon** (trash) on any session card
-2. Confirm deletion in the dialog
-3. The session and all its exercises will be permanently removed
-
-**Note**: Deleting a session cannot be undone and will remove all exercises in that session.
-
-## Managing Exercises
+This is where the actual work happens. Each exercise in a session shows which exercise it is, how many sets and reps, and any notes you added.
 
 ### Adding an Exercise
 
-1. In a session, tap the **"Add Exercise"** button (only available after session is saved)
-2. Fill out the exercise form:
-   - **Exercise** (Required): Select from available exercises dropdown
-   - **Set Count** (Required): Number of sets (must be > 0)
-   - **Rep Count** (Required): Number of repetitions (must be > 0)
-   - **Description** (Optional): Additional notes about the exercise
-   - **Add to Super Set** (Optional): Link this exercise to another exercise as a super set
-3. Tap **"Save"** to create the exercise
+Inside a saved session, tap "Add Exercise". Pick an exercise from the dropdown (required), enter the set count and rep count (both must be greater than zero), and add a description if you want. There's also an option to add this exercise to a super set, which we'll get to in a second.
+
+Hit "Save" and the exercise appears in your session.
 
 ### Super Sets
 
-Super sets allow you to group exercises together:
+Super sets let you group exercises together – perfect for when you want to do two exercises back-to-back with minimal rest.
 
-**Creating a Super Set**:
-1. Add the first exercise (this becomes the parent)
-2. Add a second exercise
-3. In the second exercise form, select the first exercise from "Add to Super Set" dropdown
-4. The second exercise becomes part of the super set
+To create a super set, add your first exercise normally. Then add a second exercise, and in that form, use the "Add to Super Set" dropdown to select the first exercise. The second exercise becomes part of the super set.
 
-**Super Set Display**:
-- Super sets are displayed with a special border and label
-- The parent exercise is shown first
-- Child exercises are indented and marked with "Part of Super Set" badge
-- All exercises in a super set are visually grouped together
+Super sets show up with a special border and label. The parent exercise is listed first, and child exercises are indented with a "Part of Super Set" badge. Everything's visually grouped so you can see what goes together.
 
-**Removing from Super Set**:
-- When editing a child exercise, tap "Remove from Super Set" to make it standalone
+Want to break up a super set? Edit the child exercise and tap "Remove from Super Set" to make it standalone again.
 
-### Editing an Exercise
+### Editing & Deleting
 
-1. Tap the **edit icon** (pencil) on any exercise card
-2. Modify the fields as needed
-3. You can change the exercise, sets, reps, description, or super set relationship
-4. Tap **"Save"** to update or **"Cancel"** to discard changes
+Tap the pencil icon on any exercise to edit it. You can change the exercise itself, the sets, reps, description, or even the super set relationship. Save when you're done.
 
-### Deleting an Exercise
+To delete an exercise, tap the trash icon and confirm. If you delete a parent exercise in a super set, the child exercises stick around but they're no longer grouped.
 
-1. Tap the **delete icon** (trash) on any exercise card
-2. Confirm deletion in the dialog
-3. The exercise will be permanently removed
+## AI Can Help
 
-**Note**: If you delete a parent exercise in a super set, child exercises become orphaned (they remain but are no longer grouped).
+The AI assistant works great with workout plans. Open it (tap the robot icon) while you're viewing a plan and ask for help. Something like "Add a chest and triceps session for Monday" works perfectly. The AI will populate the form fields, you review and adjust, then save. You'll see a blue notification when the AI updates something.
 
-## AI Assistant Integration
+## When Things Go Wrong
 
-The Workout Plan detail screen integrates with the AI Assistant:
+Plans not loading? Check your internet connection and pull down to refresh. If you see an error screen, tap "Retry". Still stuck? Try logging out and back in.
 
-**AI Can Help**:
-- Fill out exercise forms with set and rep counts
-- Suggest exercise combinations
-- Organize exercises into super sets
-- Create balanced workout sessions
-- Plan weekly workout schedules
+Can't edit a plan? Make sure you're logged in. Sometimes closing and reopening the app helps.
 
-**How to Use**:
-1. Open AI Assistant while viewing a workout plan (tap robot icon 🤖)
-2. Ask for help: "Add a chest and triceps session for Monday"
-3. AI automatically populates form fields
-4. Review and adjust as needed
-5. Save when satisfied
+Sessions not loading? Verify your internet connection is stable and try refreshing. Check any error messages for specifics.
 
-A blue notification appears when AI updates the form: "AI updated the form"
+Can't add, edit, or delete sessions? Make sure all required fields are filled and look for red error messages on the fields. Give it a moment and try again.
 
-## Troubleshooting
+Exercises not loading? Verify your connection and make sure the session is saved first. Pull down to refresh if needed.
 
-### Plans Not Loading
+Can't add exercises? The session must be saved before you can add exercises. Make sure you've selected an exercise from the dropdown and that your set and rep counts are valid numbers greater than zero.
 
-**Solutions**:
-1. Check internet connection
-2. Pull down to refresh
-3. Tap "Retry" button if error screen appears
-4. Logout and login again
-5. Contact support if issue persists
+Super set issues? Make sure the parent exercise is saved before adding child exercises. Only standalone exercises can be super set parents, and exercises can't be part of multiple super sets at once. Try removing and re-adding the relationship if something's off.
 
-### Cannot Edit Plan
+## Tips
 
-**Solutions**:
-1. Ensure you're logged in
-2. Close and reopen the app
-3. Check that the plan belongs to you or you have editing access
-4. Contact support if issue persists
+Use clear session titles that make sense to you. Assign sessions to specific days and spread them out through the week. Add descriptions when they're helpful – form cues, intensity notes, whatever keeps you on track.
 
-### Sessions Not Loading
+For exercises, use set and rep counts that match your goals. Organize related exercises into super sets for efficiency. Keep your exercise selection consistent across sessions so you can track progress.
 
-**Solutions**:
-1. Verify stable internet connection
-2. Pull down to refresh
-3. Check error message for specific issues
-4. Contact support if issue persists
+Mark only one plan as active at a time. Keep descriptions informative. Update your plans as your goals evolve.
 
-### Cannot Add/Edit/Delete Sessions
-
-**Solutions**:
-1. Ensure all required fields are filled
-2. Check validation errors (red messages on fields)
-3. Verify you have editing access to the plan
-4. Try again after a moment
-5. Contact support if issue persists
-
-### Exercises Not Loading
-
-**Solutions**:
-1. Verify stable internet connection
-2. Ensure the session has been saved first
-3. Pull down to refresh
-4. Contact support if issue persists
-
-### Cannot Add Exercises
-
-**Solutions**:
-1. Ensure the session is saved (you can't add exercises to unsaved sessions)
-2. Check that exercise is selected from dropdown
-3. Verify set count and rep count are valid numbers (> 0)
-4. Verify you have editing access to the plan
-5. Contact support if issue persists
-
-### Super Set Issues
-
-**Solutions**:
-1. Ensure parent exercise is saved before adding child exercises
-2. Only standalone exercises can be used as super set parents
-3. Check that exercises are not already part of another super set
-4. Try removing and re-adding super set relationships
-
-## Best Practices
-
-### Organizing Sessions
-
-- Use clear, descriptive session titles (e.g., "Push Day", "Pull Day", "Leg Day")
-- Assign sessions to specific days of the week
-- Add descriptions to explain session focus or goals
-- Balance sessions throughout the week
-
-### Managing Exercises
-
-- Use appropriate set and rep counts for your goals
-- Add descriptions for form cues or special instructions
-- Organize related exercises into super sets for efficiency
-- Maintain consistent exercise selection across sessions
-
-### Plan Management
-
-- Mark only one plan as active at a time
-- Keep plan descriptions informative
-- Update plans as your goals change
-- Review and adjust sessions regularly
-
-## Getting Help
-
-If you need assistance:
-
-1. **AI Assistant**: Ask for help (tap robot icon 🤖)
-2. **In-App Support**: Check support options in settings
-3. **Documentation**: Browse other help articles
-4. **Contact Support**: Reach out to Dambel support team
-
-Workout plans are essential for structured training. Use them to organize your workouts and track your progress!
+If you need help, the AI assistant is always there, or check out the support options in settings.
 

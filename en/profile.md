@@ -1,417 +1,113 @@
-# Profile Guide
+# Your Profile
 
-Welcome to the Profile section of Dambel. This comprehensive guide will walk you through all features of your profile, including viewing your information, editing details, managing education history, tracking championships, and understanding badges.
-
-## Overview
-
-The Profile section is your personal showcase in Dambel. It displays your fitness credentials, achievements, and personal information. You can view your profile, edit your details, manage your education history, track your championships, and display your earned badges.
-
-Your profile serves multiple purposes:
-- **Personal Information Management**: Keep your details up to date
-- **Professional Credentials**: Showcase your education and certifications
-- **Achievements**: Display your championship wins and accomplishments
-- **Status & Recognition**: Show your premium membership and special roles
-- **Profile Pictures**: Display multiple photos in your profile gallery
-
-## Accessing Your Profile
-
-You can access your profile from anywhere in the app:
-
-1. Look for your **profile picture** or **avatar** in the top-right corner of the app bar
-2. Click on your profile picture to open the profile menu
-3. Select **"Profile"** from the dropdown menu
-
-Alternatively, navigate to the profile section from the main menu or sidebar.
-
-## Profile Overview Screen
-
-When you open your profile, you'll see a comprehensive view of all your information organized into several sections.
+Your profile is where you show off who you are in the fitness world. Think of it as your digital fitness card – it's got your personal info, achievements, education, and all those championship wins you've been collecting.
 
 ![Profile Overview](images/profile-screen.png)
 
-*The profile overview showing all sections: header with avatar and badges, account info, personal info, education, and championships*
+## Getting There
 
-### Profile Header
+Tap your profile picture in the top-right corner, then hit "Profile" from the menu. Easy.
 
-The profile header is the first section you see and includes:
+## What You'll See
 
-#### Profile Picture
-- Your profile picture is displayed as a circular avatar at the top
-- Shows your profile picture or initials if no picture is uploaded
-- **Premium Badge**: A gold star icon appears in the bottom-right corner if you have a premium subscription
-- **Multiple Photos**: If you have multiple photos, a badge shows the count (e.g., "🖼️ 3") and a colored border appears
-- Click on the avatar to view all photos in a gallery with swipe navigation and thumbnails
+When you open your profile, here's what's waiting for you:
 
-#### Display Name & Username
-- **Display Name**: Shown prominently (constructed from first name, last name, or username)
-- **Username**: Displayed below with "@" prefix (e.g., "@johndoe")
+Your profile picture sits at the top (or your initials if you haven't uploaded one yet). Got a premium membership? You'll see a gold star badge on your avatar. If you've uploaded multiple photos, there's a colored border and a little counter showing how many you have. Tap the avatar to browse through all your photos in a full-screen gallery with swipe navigation.
 
-#### Badges
-Badges appear below your username in colorful pill-shaped containers:
+Right below that is your display name and username (the one with the @ symbol). If you've got special roles like "Coach" or "Trainer", they'll show up as purple badges. Premium members get their own gold badge too.
 
-**Premium Badge**: 
-- Gold/amber colored with star icon (⭐)
-- Text: "Premium Member"
-- Indicates active premium subscription
-- Grants access to premium features throughout the app
+The rest breaks down into a few sections:
 
-**Role Badges**:
-- Purple colored with badge icon (🏅)
-- Shows role name (e.g., "Admin", "Coach", "Trainer")
-- Indicates special permissions and responsibilities
-- Multiple role badges can be displayed
-
-### Account Information Section
-
-This card displays your account-related information:
-
-- **Phone Number** (📱): Your registered phone number used for login
-- **Email Address** (✉️): Your email address (if provided, optional)
-- **Member Since** (📅): Date you created your account (format: "MMM dd, yyyy")
-
-### Personal Information Section
-
-This card displays your personal details:
-
-- **Birth Date** (🎂): Your birth date with calculated age (format: "MMM dd, yyyy (XX years)")
-  - Shows "Not set" if not provided
-- **Height** (📏): Your height in centimeters (format: "XXX cm")
-  - Shows "Not set" if not provided
+Your account info shows your phone number, email (if you added one), and when you joined. Personal details include your birth date with your age calculated automatically, plus your height in centimeters. Both of these are optional, so if you see "Not set", that just means you haven't filled them in yet.
 
 ## Editing Your Profile
 
-To update your profile information, tap the **"Edit Profile"** button below the profile header.
+Hit the "Edit Profile" button to change things up.
 
 ![Edit Profile Screen](images/profile-edit-form.png)
 
-*The edit profile screen showing all editable fields in a clean form*
+You can update your first name, last name, username, email, height, and birth date. Username is the only required field – it needs to be at least 3 characters and unique. Everything else is optional.
 
-### Editable Fields
+For the birth date, tap the calendar icon to pick a date. Height goes in centimeters. Each field has a little clear button (×) that shows up when you've typed something in.
 
-#### First Name (Optional)
-- Text input with person icon (👤)
-- Used to construct your display name
-- Clear button appears when field has content
+When you're done, tap "Save". The app will show you any errors if something's wrong (like if that username is already taken). If everything checks out, your changes save and you're back to viewing your profile.
 
-#### Last Name (Optional)
-- Text input with person icon (👤)
-- Used to construct your display name
-- Clear button appears when field has content
+Want to bail? Just hit "Cancel".
 
-#### Username (Required)
-- Text input with @ symbol icon
-- Must be at least 3 characters
-- Must be unique in the system
-- Errors: "Username is required", "Username must be at least 3 characters long", "This username is already in use"
+### AI Can Help
 
-#### Email (Optional)
-- Email input with envelope icon (✉️)
-- Must be valid email format if provided
-- Clear button appears when field has content
-- Errors: "Please enter a valid email address", "This email is already in use"
+The AI assistant can actually fill out your profile for you. Just open it (tap the robot icon 🤖) while you're on the edit screen and tell it what you want. Something like "Set my first name to Alex and height to 180" works great. The AI will populate the fields, then you can review and save. You'll see a blue notification when the AI updates something.
 
-#### Height (Optional)
-- Number input with height icon (📏)
-- Must be a positive number in centimeters
-- Clear button appears when field has content
-- Error: "Height must be a positive number"
+## Education & Championships
 
-#### Birth Date (Optional)
-- Date picker with cake icon (🎂)
-- Format: "YYYY-MM-DD"
-- Range: 1900 to current date
-- Tap the calendar button to open date picker
-- Clear button appears when date is set
-
-### Saving Changes
-
-After making your changes:
-
-1. Review all modified fields
-2. Ensure all required fields (username) are filled
-3. Tap the **"Save"** button
-
-**What Happens**:
-- Loading indicator shows: "Saving changes..."
-- Data is sent to the server
-- **If successful**: Success message appears, you're redirected to profile view with changes visible
-- **If error**: Error message explains the issue, you remain on edit screen to fix and retry
-
-### Canceling Changes
-
-Tap the **"Cancel"** button to discard changes and return to profile view.
-
-### AI Assistant Integration
-
-The Edit Profile screen integrates with the AI Assistant:
-
-**AI Can Help**:
-- Fill out form fields based on conversation
-- Suggest values for empty fields
-- Correct formatting issues
-- Guide through required fields
-
-**How to Use**:
-1. Open AI Assistant while on edit screen (tap robot icon 🤖)
-2. Ask for help: "Help me fill out my profile"
-3. Provide information in conversation
-4. AI automatically populates form fields
-5. Review and adjust as needed
-6. Save when satisfied
-
-A blue notification appears when AI updates the form: "AI updated the form"
-
-## Education & Championship History
-
-Both education and championship sections work similarly, allowing you to showcase your credentials and achievements.
+These two sections work pretty much the same way – they're where you showcase your credentials and wins.
 
 ![Education & Championship Sections](images/profile-championships-and-education.png)
 
-*The education and championship sections displaying records with add buttons*
+### Education
 
-### Education History
+This is where your academic background lives – degrees, certifications, training programs, all that good stuff.
 
-The Education section showcases your academic background, certifications, and training credentials.
+Each education entry shows the school name, your field of study, and the date range. If you're currently enrolled somewhere, it'll say "Present" instead of an end date. You can add a description too for extra details like honors or specific achievements.
 
-**What's Displayed**:
-- **School/Institution Name**: Bold title (e.g., "State University")
-- **Field of Study**: Specialization or program (e.g., "Exercise Science")
-- **Date Range**: "YYYY - YYYY" or "YYYY - Present" for ongoing education
-- **Description** (Optional): Additional details, honors, achievements
+If you don't have any education records yet, you'll see an empty state with a school icon and a message inviting you to add your first one.
 
-**Empty State**:
-If no education records exist, you'll see a school icon (🎓) with message: "No education records yet" and "Add your first education record"
+### Championships
 
-### Championship History
+Your trophy case. Competition wins, awards, achievements – anything you're proud of goes here.
 
-The Championship section showcases your competition wins, awards, and achievements.
+Each championship shows the title, date (in "Month Year" format), and an optional description where you can add details like your placement, category, or what medals you won.
 
-**What's Displayed**:
-- **Championship Title**: Bold title (e.g., "State Powerlifting Championship")
-- **Date**: "MMM yyyy" format (e.g., "Jun 2023")
-- **Description** (Optional): Additional details like placement, category, medals
+No championships yet? You'll see a trophy icon with a friendly prompt to add your first one.
 
-**Empty State**:
-If no championship records exist, you'll see a trophy icon (🏆) with message: "No championship records yet" and "Add your first championship record"
+### Adding & Editing
 
-### Adding & Editing Records
-
-Both sections have similar workflows:
-
-1. **To Add**: Tap the **+ (plus)** icon in the section header
-2. **To Edit**: Tap the **⋮ (three dots)** menu on any record, select "Edit"
-3. **To Delete**: Tap the **⋮ (three dots)** menu on any record, select "Delete" (requires confirmation)
-
-### Education Record Fields
+To add a new record, tap the + icon in the section header. To edit or delete an existing one, tap the three-dot menu (⋮) on that record.
 
 ![Add/Edit Education Dialog](images/profile-add-education.png)
 
-*The add/edit dialog for education records*
-
-**Required Fields**:
-- **School** (Required): Institution name
-  - Error: "Please enter the school name"
-- **Field** (Required): Field of study or program
-  - Error: "Please enter the field of study"
-- **Start Date** (Required): When program began (displayed as "MMM YYYY")
-  - Error: "Please select a start date"
-
-**Optional Fields**:
-- **Description** (Optional): Multi-line text for additional information
-- **End Date** (Optional): When program completed (displayed as "MMM YYYY")
-- **Ongoing** (Checkbox): Check if currently enrolled (hides end date, shows "Present")
-
-### Championship Record Fields
+For education, you'll need to fill in the school name, field of study, and start date. End date and description are optional. There's a checkbox for "Ongoing" if you're currently enrolled – check that and the end date field disappears.
 
 ![Add/Edit Championship Dialog](images/profile-add-championship.png)
 
-*The add/edit dialog for championship records*
+For championships, you need the title and date. Description is optional. The date picker lets you choose anything from 1950 to 10 years in the future (in case you're planning ahead).
 
-**Required Fields**:
-- **Championship Title** (Required): Name of championship or competition
-  - Error: "Please enter the championship title"
-- **Championship Date** (Required): When it took place (displayed as "MMM yyyy")
-  - Range: 1950 to 10 years in the future
-  - Error: "Please select a championship date"
+When you save, you'll see a success message and the new record appears in your list. Deleting requires confirmation – just making sure you really want to do it, since there's no undo.
 
-**Optional Fields**:
-- **Description** (Optional): Multi-line text for additional information (placement, category, medals)
+## Profile Pictures
 
-### Saving Records
+You can have multiple profile pictures. The last one you upload becomes your main profile picture – that's what shows up in your avatar.
 
-After filling out the dialog:
-1. Tap **"Save"**
-2. Success message appears: "Education/Championship record created/updated successfully"
-3. Dialog closes and profile refreshes
-4. New/updated record appears in the list
+When you have multiple photos, your avatar gets a colored border and shows a count. Tap it to open the gallery where you can swipe through all your photos, see thumbnails, and even pinch to zoom.
 
-### Deleting Records
+The app supports JPEG, JPG, and PNG files.
 
-When deleting:
-1. Confirmation dialog appears: "Are you sure you want to delete this record?"
-2. **"Cancel"**: Keeps the record
-3. **"Delete"** (red): Permanently removes the record
-4. Success message: "Record deleted successfully"
-5. This action cannot be undone
+## Refreshing
 
-### Permissions
+Pull down from the top of your profile screen to refresh and load the latest data. Handy if you just made changes from another device.
 
-Both education and championship sections use permission-based access control:
+## When Things Go Wrong
 
-**For Your Own Profile**:
-- View: Requires `education.view` or `championships.view` permission
-- Create: Requires `education.create` or `championships.create` permission
-- Update: Requires `education.update` or `championships.update` permission
-- Delete: Requires `education.delete` or `championships.delete` permission
+Profile not loading? Check your internet connection and try pulling down to refresh. If you see an error screen, there's usually a "Retry" button. Still stuck? Try logging out and back in.
 
-**For Other Users' Profiles** (with special roles):
-- Requires the "_any" variant of permissions (e.g., `education.view_any`)
+Can't edit your profile? Make sure you're logged in. Sometimes closing and reopening the app helps.
 
-**Note**: If you don't have view permission, the entire section is hidden.
+Changes not saving? Look for red error messages on the fields – they'll tell you what's wrong. Common issues are username already taken, invalid email format, or missing required fields. Make sure you've got a stable internet connection too.
 
-## Profile Pictures & Media
+Education or championship sections not showing up? This might be a technical issue. Try refreshing or restarting the app. If it persists, reach out to support.
 
-Your profile can include multiple photos to showcase yourself.
+Photos not loading? Give them a moment – sometimes they take a bit to download. Pull down to refresh if they're stuck. If it keeps happening, try clearing the app cache in settings.
 
-**Features**:
-- Circular avatar display with initials fallback
-- Premium badge overlay (if applicable)
-- Photo count indicator and colored border for multiple photos
-- Click avatar to open fullscreen gallery
-- Gallery supports swipe navigation, thumbnails, pinch-to-zoom
+AI not updating the form? Make sure you're on the edit screen when you ask for help, and be specific about what you want. "Fill the first name field with John" works better than "update my name". If it's still not working, try closing and reopening the AI assistant.
 
-**Supported Formats**: JPEG/JPG, PNG with transparency
+## Privacy Stuff
 
-## Refreshing Your Profile
+What shows up on your profile depends on your privacy settings. Other users might be able to see your profile, but what they see is controlled by those settings.
 
-To ensure you're seeing the latest information:
+You're in control of your information. Most fields can be edited anytime, and optional ones can be cleared out if you change your mind. Education and championship records can be deleted whenever you want. Some core stuff like username and phone number can't be removed, but if you need to delete your whole account, reach out to support.
 
-**Pull to Refresh**:
-1. On your profile screen, pull down from the top
-2. A refresh indicator appears
-3. The app reloads your profile data
+## Tips
 
-This is useful after making changes from another device or after system updates.
+Keep your profile current – add new certifications and championships as they happen. Use a clear profile picture. Fill out the sections that matter to you. The more complete your profile, the better it represents you in the app.
 
-## Troubleshooting
-
-### Profile Not Loading
-
-**Solutions**:
-1. Check internet connection
-2. Pull down to refresh
-3. Tap "Retry" button if error screen appears
-4. Logout and login again
-5. Clear app cache in settings
-6. Update to latest app version
-
-### Cannot Edit Profile
-
-**Solutions**:
-1. Check you have update permissions
-2. Ensure you're logged in
-3. Close and reopen the app
-4. Contact support if issue persists
-
-### Changes Not Saving
-
-**Solutions**:
-1. Check for validation errors (red messages on fields)
-2. Ensure username field is filled
-3. Try different username if "already in use" error appears
-4. Try different email if conflict error appears
-5. Verify stable internet connection
-6. Wait and try again
-
-### Education/Championship Sections Not Visible
-
-**Solutions**:
-1. Check if you have view permissions
-2. Contact administrator about permissions
-3. Check other profiles to compare visibility
-
-### Cannot Add/Edit/Delete Records
-
-**Solutions**:
-1. Verify you have appropriate permissions
-2. For your own profile: need create/update/delete permissions
-3. For other profiles: need "_any" variant permissions
-4. Contact administrator to request permissions
-
-### Photos Not Loading
-
-**Solutions**:
-1. Verify stable internet connection
-2. Wait for images to load
-3. Pull down to refresh
-4. Clear app cache
-5. Report persistent issues to support
-
-### AI Assistant Not Updating Form
-
-**Solutions**:
-1. Ensure you have AI assistant permissions
-2. Be explicit: "Please fill the first name field with John"
-3. Verify you're on the edit profile screen
-4. Close and reopen AI assistant
-5. Check AI response for error messages
-
-## Privacy and Data
-
-### What Information is Visible
-
-**Your Profile Shows**:
-- Profile pictures (if uploaded)
-- Display name, username
-- Badges (Premium, Roles)
-- Account information (based on privacy settings)
-- Personal information (based on privacy settings)
-- Education and championship history (based on permissions)
-
-**Who Can See**: Depends on privacy settings. Other app users may view your profile based on these settings.
-
-### Editing & Deleting Information
-
-- You control your personal information
-- Most fields can be edited anytime
-- Optional fields (email, height, birth date) can be cleared
-- Education and championship records can be deleted
-- Some core information cannot be removed (username, phone)
-- Contact support for account deletion requests
-
-## Best Practices
-
-### Keep Your Profile Updated
-- Regularly update personal information
-- Add new education and certifications promptly
-- Log championships and achievements as they happen
-- Update profile picture periodically
-
-### Professional Presentation
-- Use clear, professional profile picture
-- Fill out all relevant sections
-- Provide detailed descriptions
-- Keep information accurate and current
-
-### Showcase Achievements
-- Add all relevant championships
-- Include education and certifications
-- Provide context in descriptions
-- Highlight unique qualifications
-
-### Privacy Considerations
-- Be mindful of shared personal information
-- Use privacy settings to control visibility
-- Review profile from another user's perspective
-
-## Getting Help
-
-If you need assistance:
-
-1. **AI Assistant**: Ask for help (tap robot icon 🤖)
-2. **In-App Support**: Check support options in settings
-3. **Documentation**: Browse other help articles
-4. **Contact Support**: Reach out to Dambel support team
-5. **Community**: Join Dambel community for tips
-
-Your profile is an important part of your Dambel experience. Keep it updated and showcase your fitness journey!
+If you need help, the AI assistant is always there (tap that robot icon 🤖), or check out the support options in settings.
