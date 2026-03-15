@@ -1,15 +1,18 @@
 - Get Started
+    - [What is Dambel?](getting-started.md)
     - [Authentication Guide](authentication.md)
 - User Guide
     - [Profile](profile.md)
     - [AI Assistant](ai-assistant.md)
     - [Chat](chat.md)
     - [Notifications](notifications.md)
-    - [Language Settings](localization.md)
+    - [Wallet](wallet.md)
+    - [Settings](settings.md)
 - Features
-    - [Diet Plans](diet-plans.md)
+    - [Dashboard](dashboard.md)
     - [Workout Plans](workout-plans.md)
-    - [Tracker System](tracker.md)
+    - [Diet Plans](diet-plans.md)
+    - [Tracker](tracker.md)
     - [Trainers](trainers.md)
     - [Gyms](gyms.md)
 - More Information

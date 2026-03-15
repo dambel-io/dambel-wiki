@@ -1,57 +1,55 @@
-# Getting Started
+# Authentication
 
-Your journey with Dambel starts here. Whether you're signing up for the first time or logging back in, we've got you covered.
+Everything in Dambel starts with your account. Here's how to create one, log in, and recover your password if you forget it.
 
-## Signing Up
+---
 
-New to Dambel? Here's how to get your account set up.
+## Create an account
 
-![Register Screen](images/register-screen.png)
+![Register screen](images/register-screen.png)
 
-From the login screen, tap "Sign Up" at the bottom. You'll see a registration form with a few fields to fill out.
+Tap **Sign Up** on the welcome screen and fill in:
 
-The essentials are your phone number (at least 10 digits), a username (minimum 3 characters, and it needs to be unique), and a password (at least 8 characters). You'll need to type your password twice to make sure it matches.
+| Field | Requirement |
+|---|---|
+| Phone number | At least 10 digits — used for verification |
+| Username | At least 3 characters, must be unique |
+| Password | At least 8 characters |
+| Email | Optional, but useful for support |
+| Full name | Optional |
+| Referral code | Optional — enter one if a friend invited you |
 
-Everything else is optional. You can add your email if you want (it needs to be a valid email format if you do), plus your first and last name. There's also a referral code field if someone invited you to join.
+After submitting, you'll receive a **6-digit SMS code**. Enter it to verify your phone and activate your account.
 
-Once you've filled everything out, hit "Register". The app will send a 6-digit verification code to your phone via SMS. When it arrives, enter it in the confirmation code field that appears, then tap "Verify and Register".
+---
 
-If everything checks out, you're in. The app logs you in automatically and takes you straight to the main screen.
+## Log in
 
-## Logging In
+![Login screen](images/login-screen.png)
 
-Already have an account? Just enter your phone number and password, then tap "Sign In". That's it.
+Enter your **phone number** and **password**, then tap **Login**. That's it.
 
-![Login Screen](images/login-screen.png)
+---
 
-The password needs to be at least 8 characters. If you get it wrong, the app will let you know what went wrong.
+## Forgot your password?
 
-## Forgot Your Password
+![Forgot password screen](images/forgot-password-screen.png)
 
-It happens. Tap "Forgot Password" on the login screen.
+1. Tap **Forgot Password** on the login screen
+2. Enter your registered phone number
+3. Enter the 6-digit SMS verification code you receive
+4. Set a new password
 
-Enter your phone number and hit "Send Reset Code". You'll get a 6-digit code via SMS. Enter that code along with your new password (twice to confirm), then tap "Reset Password".
+![Password reset screen](images/forgot-password-reset-screen.png)
 
-Your password gets updated and you can log in with the new one right away.
+Your password is updated immediately — log in with the new one right away.
 
-## When Things Go Wrong
+---
 
-Can't log in? Double-check your phone number and password. Make sure you've got a stable internet connection. If you're still stuck, try the forgot password flow.
+## Signing out
 
-Registration not working? The most common issues are username already taken, passwords not matching, or an invalid email format. The app will show you specific error messages for each field that needs fixing.
+Go to **Profile → Settings** and tap **Logout** at the bottom of the settings page.
 
-Didn't get the verification code? Give it a minute – sometimes SMS takes a bit. Check that you entered your phone number correctly. If it still doesn't show up, try registering again.
+---
 
-Code expired or wrong? Request a new one by going through the registration process again with the same phone number.
-
-## A Few Notes
-
-Your phone number is your login ID, so make sure it's one you have access to. The app uses it for verification and password resets.
-
-Passwords are encrypted and stored securely. We can't see them, which is why there's a reset process instead of a "show me my password" button.
-
-Username needs to be unique across all users. If the one you want is taken, try adding numbers or underscores.
-
-Email is completely optional, but if you add one, it needs to be properly formatted (something@something.com).
-
-Once you're logged in, you stay logged in until you explicitly log out or clear the app data. No need to sign in every time you open the app.
+> **Next:** [Set up your profile](profile.md) or [explore the Dashboard](dashboard.md)

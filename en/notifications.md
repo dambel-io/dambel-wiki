@@ -1,59 +1,50 @@
 # Notifications
 
-Notifications keep you in the loop with everything happening in your fitness world. New messages, workout reminders, trainer updates, progress milestones – they all show up here so you never miss a beat.
+Notifications keep you in the loop — payments, trainer updates, gym stuff, and more.
 
-![Notification Panel](images/notification-panel.png)
+![Notifications panel](images/notifications-screen.png)
 
-## Getting There
+---
 
-Tap the bell icon at the top of the screen. If you've got unread notifications, you'll see a little badge with the count.
+## Accessing notifications
 
-## What You'll See
+Tap the **bell icon** at the top of the screen. A red badge shows how many unread notifications you have.
 
-When you open the notifications panel, your most recent notifications appear at the top. Each one shows an icon that tells you what type it is, the message itself, and how long ago it arrived (like "2 hours ago" or "Just now").
+---
 
-Unread notifications have a small colored dot on the right side. Once you tap a notification, that dot disappears and it's marked as read.
+## What triggers a notification
 
-The panel shows 20 notifications at a time. Scroll down to the bottom and more will load automatically if you have older ones.
+| Type | Example |
+|---|---|
+| **Payments** | "Your subscription was renewed" |
+| **Ratings & reviews** | "Alex left you a 5-star review" |
+| **Role changes** | "You've been granted Trainer status" |
+| **Referrals** | "Someone signed up with your code" |
+| **Gym events** | "Your gym membership expires in 3 days" |
+| **Chat** | "New message from your trainer" |
+| **Training updates** | "Your trainer updated your workout plan" |
+| **Tracker reminders** | "Don't forget to log today's workout" |
+| **Comments** | "Your trainer commented on your progress" |
 
-## Types of Notifications
+---
 
-Different things happening in the app trigger different notifications. Here's what you might see:
+## Mark as read
 
-Comments on your posts or activity. Payment confirmations when you subscribe to premium features or gym memberships. Ratings and reviews from other users. Role assignments if you become a trainer or get special permissions. Referral rewards when your friends join using your code.
+- Tap a notification to mark it as read and navigate to the relevant screen
+- Tap **Mark all as read** to clear everything at once
 
-Gym-related stuff like check-ins, check-outs, new subscriptions, or schedule changes. New trainees if you're a trainer, or updates when your trainer creates or modifies your workout and diet plans.
+---
 
-Chat messages from your conversations. Training updates about workouts and diet plans. Tracker notifications when you or people you follow log activities like meals, water, workouts, sleep, supplements, or weight measurements.
+## Load older notifications
 
-Reminders you've set up for workouts, meals, water intake, sleep, weight tracking, supplements, or wake-up times.
+Notifications load 20 at a time. Scroll to the bottom of the list to load older ones automatically.
 
-Each notification type has its own icon so you can quickly scan and see what's what.
+---
 
-## Managing Notifications
+## Push notifications
 
-Tap any notification to mark it as read. The colored dot disappears and it moves to your read list.
+Dambel uses Firebase Cloud Messaging (FCM) to send push notifications to your device even when the app is closed. You'll be prompted to allow notifications on first launch — we recommend enabling them to stay on top of your training.
 
-Got a bunch of unread notifications? Hit the "Mark all read" button at the top right of the panel. It clears them all at once.
+---
 
-Pull down from the top of the list to refresh and check for new notifications. Scroll to the bottom to load older ones.
-
-## Real-Time Updates
-
-Notifications arrive in real-time when you're using the app. No need to refresh manually – they just show up as they happen. The badge on the bell icon updates automatically too.
-
-## When Things Go Wrong
-
-Notifications not loading? Check your internet connection and try pulling down to refresh. If you see an error message, there's usually a "Retry" button you can tap.
-
-If the panel is empty and you're expecting notifications, make sure you're logged in. Sometimes logging out and back in helps reset things.
-
-Still having issues? The support team can help – check the settings menu for contact options.
-
-## Tips
-
-The notification panel is designed to be quick and unobtrusive. Open it, scan what's new, tap what matters, and get back to what you were doing.
-
-If you're a trainer with lots of trainees, you might get a steady stream of notifications. The mark all read button is your friend.
-
-Notifications stick around until you're ready to deal with them. No pressure to clear them immediately – they'll be there when you need them.
+> **Next:** [Check your chat](chat.md) or [edit your profile](profile.md)

@@ -1,16 +1,19 @@
 - شروع کنید
-    - [راهنمای احراز هویت](authentication.md)
+    - [دمبل چیست؟](getting-started.md)
+    - [راهنمای ورود و ثبت‌نام](authentication.md)
 - راهنمای کاربر
     - [پروفایل](profile.md)
     - [دستیار هوش مصنوعی](ai-assistant.md)
     - [چت](chat.md)
-    - [اعلان‌ ها](notifications.md)
-    - [تنظیمات زبان](localization.md)
-- قابلیت ها
-    - [برنامه‌های غذایی](diet-plans.md)
+    - [اعلان‌ها](notifications.md)
+    - [کیف پول](wallet.md)
+    - [تنظیمات](settings.md)
+- ویژگی‌ها
+    - [داشبورد](dashboard.md)
     - [برنامه‌های تمرینی](workout-plans.md)
-    - [سیستم ثبت عملکرد](tracker.md)
+    - [برنامه‌های غذایی](diet-plans.md)
+    - [ردیاب](tracker.md)
     - [مربیان](trainers.md)
-    - [باشگاه ها](gyms.md)
+    - [باشگاه‌ها](gyms.md)
 - اطلاعات بیشتر
     - [درباره ما](about.md)

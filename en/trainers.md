@@ -1,74 +1,80 @@
-# Finding Trainers
+# Trainers
 
-Looking for a coach? This is where you find trainers offering workout plans, diet plans, and other fitness services. Search, filter, and pick someone who matches what you're after.
+Looking for a trainer? Search, browse their profiles, and subscribe to a service right here in the app.
 
-![Trainers Search](images/trainers-search.png)
+![Training screen](images/training-screen.png)
 
-## Getting There
+---
 
-Head to the Training section from the main menu, then tap the Trainers tab. You'll land on the search page with all available trainers and their services.
+## Finding a trainer
 
-At the top, you've got two quick buttons: "My Services" takes you to services you're offering (if you're a trainer), and "Purchased Services" shows what you've bought from other trainers.
+Go to **Training → Trainers**.
 
-## Searching
+You can:
+- **Search by name** or keyword
+- **Filter by category:** Workout Plans or Diet Plans
+- **Filter by sports field:** bodybuilding, CrossFit, powerlifting, yoga, and more
 
-Type a trainer's name or keywords into the search bar. Results update as you type, so you'll see matches instantly. The search looks through trainer names and service descriptions, and it's not picky about uppercase or lowercase.
+Trainers with boosted listings appear at the top of the list. Tap any trainer card to open their profile.
 
-Clear the search field to see everyone again.
+---
 
-## Filtering
+## Trainer profiles
 
-Below the search bar, you've got two filter dropdowns: Category and Sports Field.
+A trainer's profile shows:
+- Their bio, specializations, and sports fields
+- Ratings and reviews from past clients
+- Available services with pricing
 
-Category lets you pick between Workout Plans and Diet Plans. Tap the dropdown, check what you want, and hit "Clear" if you change your mind. You can select both if you're looking for trainers who do it all.
+---
 
-Sports Field is where you filter by specialty – things like bodybuilding, powerlifting, CrossFit, whatever's available. Same deal: tap the dropdown, pick your specialties, and the list updates automatically.
+## Purchasing a service
 
-When you select filters, they show up as little chips above the dropdowns. Tap the X on any chip to remove that filter quickly.
+![Training service detail](images/training-service-detail-screen.png)
 
-Mix and match however you want. Search for a name, filter by category and specialty, and narrow it down until you find exactly what you need.
+On a trainer's profile, tap a service to see its full details. When you're ready:
+1. Tap **Subscribe**
+2. Confirm the purchase from your Dambel wallet
 
-## What You See
+---
 
-Each trainer shows up as a card with their profile picture on the left (or initials if they haven't uploaded one). You'll see their name, the service title, rating and review count, specialties, a short description, and the price.
+## Your subscriptions
 
-If there's a discount, you'll see the original price crossed out, the discounted price, and a percentage badge. Some services have a green "BOOST" badge – that means the trainer paid to feature their service at the top of the list.
+![Purchased services](images/purchased-services-screen.png)
 
-Tap any card to see the full details, including reviews, comments, and more about what they offer.
+Go to **Training → My Subscriptions** to see all the services you're currently subscribed to. Tap any subscription to see details and communicate with your trainer.
 
-If nothing matches your search or filters, you'll get a "No trainers found" message. Just adjust your filters or clear them to see more results.
+---
 
-Errors? You'll see a message with a "Retry" button. Usually means a connection issue.
+## For trainers — offering services
 
-## Pagination
+If you're a trainer, you can create and manage the services you offer.
 
-When there are lots of trainers, results split into pages. Scroll to the bottom and you'll see page controls: previous and next buttons, plus a page counter showing where you are (like "2/5"). There's also a row count telling you which results you're viewing out of the total.
+### My Services
 
-Your search and filters stick around when you flip pages, so you don't lose your place.
+![My services](images/my-services-screen.png)
 
-## Refreshing
+Go to **Training → My Services** to see all services you've created.
 
-Pull down from the top to refresh the list. Handy if you just made changes elsewhere or want to see if new trainers have joined.
+### Creating a service
 
-## When Things Go Wrong
+![Service form](images/service-form-screen.png)
 
-List not loading? Check your internet connection and try pulling down to refresh. If you see an error screen, hit "Retry".
+Tap **+** and fill in:
+- Service name and description
+- Category (Workout Plans / Diet Plans)
+- Price and duration
+- Sports field
 
-Search not working? Clear the search field and try again. Make sure you're spelling things right, or try broader keywords. Remove filters if you're getting no results.
+### Managing trainees
 
-Filters acting weird? Make sure they're actually selected (they should be highlighted). Clear them all and reapply if needed. Refresh the page.
+![Trainee detail](images/trainee-detail-screen.png)
 
-No results? Clear your filters and search, then try different combinations. Sometimes being too specific returns nothing.
+Go to **Training → Trainees** to see all your current clients. Tap any trainee to:
+- View their profile and stats
+- Access their tracker data (read-only)
+- Open a direct chat
 
-Pagination stuck? Wait for the current page to finish loading, check your connection, and try again.
+---
 
-## Tips
-
-Start broad when searching – no filters, just browse. Then narrow it down by category, add specialties, and search for specific names if you know who you're looking for.
-
-Don't skip the later pages. Good trainers might not be on page one, especially if they're not boosting their services.
-
-Check multiple trainers before deciding. Look at their ratings, reviews, specialties, and prices. Tap into their full profile to see everything they offer.
-
-If you need help, the AI assistant can guide you (tap the robot icon). Just ask it to help you find trainers with specific expertise or services.
-
+> **Next:** [Chat with your trainer](chat.md) or [view your wallet](wallet.md)
