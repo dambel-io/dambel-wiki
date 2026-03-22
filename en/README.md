@@ -17,3 +17,7 @@
     - [Gyms](gyms.md)
 - More Information
     - [About Us](about.md)
+    - [FAQ](faq.md)
+    - [Terms and Conditions](terms.md)
+    - [Privacy Policy](privacy.md)
+    - [Contact Us](contact.md)

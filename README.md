@@ -1,4 +1,3 @@
-> This repository is auto synced and readonly
 # Dambel Documentation
 
 Welcome to the Dambel wiki. Pick a language to get started:
