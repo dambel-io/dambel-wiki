@@ -35,6 +35,12 @@ Tap the **bell icon** at the top of the screen. A red badge shows how many unrea
 
 ---
 
+## Delete a notification
+
+Swipe a notification to the left to delete it.
+
+---
+
 ## Load older notifications
 
 Notifications load 20 at a time. Scroll to the bottom of the list to load older ones automatically.
