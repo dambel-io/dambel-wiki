@@ -15,6 +15,7 @@ You can update:
 - **Phone number** and email
 - **Date of birth** (your age is calculated automatically)
 - **Height** in centimeters
+- **Gender** — select male, female, or other
 - **Profile photo** — take a new one or pick from your gallery
 
 Multiple profile pictures are supported. You can upload a gallery of photos that others can scroll through.
