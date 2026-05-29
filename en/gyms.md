@@ -69,7 +69,7 @@ Go to **My Gyms → +** and fill in:
 
 ### View subscribers
 
-Open your gym and tap **Subscribers** to see a list of all active members with their subscription details.
+Open your gym and tap **Subscribers** to see a list of all active members with their subscription details. You can search for a specific subscriber by entering their user name in the search box.
 
 ![Gym subscribers](images/gym-subscribers-screen.png)
 
