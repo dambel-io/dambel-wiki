@@ -12,14 +12,16 @@ Tap **Sign Up** on the welcome screen and fill in:
 
 | Field | Requirement |
 |---|---|
-| Phone number | At least 10 digits — used for verification |
+| Phone number | At least 10 digits - used for verification |
 | Username | At least 3 characters, must be unique |
 | Password | At least 8 characters |
 | Email | Optional, but useful for support |
 | Full name | Optional |
-| Referral code | Optional — enter one if a friend invited you |
+| Referral code | Optional - enter one if a friend invited you |
 
-After submitting, you'll receive a **6-digit SMS code**. Enter it to verify your phone and activate your account.
+After you tap **Register**, the form is replaced by a single verification screen. A **6-digit SMS code** is sent to your phone - enter it there and tap **Verify and Register** to activate your account.
+
+If you didn't receive the code, tap **Resend Code** once the one-minute cooldown expires.
 
 ---
 
