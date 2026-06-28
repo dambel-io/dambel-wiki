@@ -72,3 +72,7 @@ Tap the AI button inside your diet plan to get help — ask for meal suggestions
 ---
 
 > **Next:** [Track your daily meals](tracker.md) or [find a nutrition coach](trainers.md)
+
+---
+
+[← Previous: Workout Plans](workout-plans.md) | [Next: Tracker →](tracker.md)

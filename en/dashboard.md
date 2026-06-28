@@ -44,3 +44,7 @@ The Dashboard is designed for one quick check-in per day. Open it, tap the relev
 ---
 
 > **Next:** [Learn how to track in detail](tracker.md) or [build a workout plan](workout-plans.md)
+
+---
+
+[← Previous: Settings](settings.md) | [Next: Workout Plans →](workout-plans.md)

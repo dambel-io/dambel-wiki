@@ -54,3 +54,7 @@ Dambel uses Firebase Cloud Messaging (FCM) to send push notifications to your de
 ---
 
 > **Next:** [Check your chat](chat.md) or [edit your profile](profile.md)
+
+---
+
+[← Previous: Chat](chat.md) | [Next: Wallet →](wallet.md)

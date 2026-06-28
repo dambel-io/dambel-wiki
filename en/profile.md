@@ -57,6 +57,14 @@ Tap **Add Championship** to enter:
 
 ---
 
+## Referral link
+
+Invite friends to Dambel using your personal referral link.
+
+On your own profile page, tap **Share Referral Link** to copy the link to your clipboard. Send it to anyone - when they open it, the registration page loads with your referral code already applied.
+
+---
+
 ## What others see
 
 When someone views your profile — a trainer browsing athletes, or an athlete checking a trainer — they see your name, photo, roles, bio, education, and championships. Your contact details (phone/email) are kept private.
@@ -64,3 +72,7 @@ When someone views your profile — a trainer browsing athletes, or an athlete c
 ---
 
 > **Next:** [Adjust your settings](settings.md) or [see your wallet](wallet.md)
+
+---
+
+[← Previous: Authentication Guide](authentication.md) | [Next: AI Assistant →](ai-assistant.md)

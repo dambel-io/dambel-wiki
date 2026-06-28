@@ -81,3 +81,7 @@ If you're working with a trainer, they can view your tracker data in **read-only
 ---
 
 > **Next:** [Build the plans your tracker links to](workout-plans.md) or [check your full history](tracker.md)
+
+---
+
+[← Previous: Diet Plans](diet-plans.md) | [Next: Trainers →](trainers.md)

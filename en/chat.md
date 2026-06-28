@@ -47,3 +47,7 @@ Messages are delivered instantly via WebSocket. No refresh needed — new messag
 ---
 
 > **Next:** [Set up notifications](notifications.md) or [find people to chat with](trainers.md)
+
+---
+
+[← Previous: AI Assistant](ai-assistant.md) | [Next: Notifications →](notifications.md)

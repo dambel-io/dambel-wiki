@@ -35,3 +35,7 @@ If someone signs up using your referral code, you may receive a credit to your w
 ---
 
 > **Next:** [Find a gym to subscribe to](gyms.md) or [browse trainer services](trainers.md)
+
+---
+
+[← Previous: Notifications](notifications.md) | [Next: Settings →](settings.md)

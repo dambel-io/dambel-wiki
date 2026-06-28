@@ -76,3 +76,7 @@ Tap the AI button (sparkle icon) anywhere in the workout plan to get help — as
 ---
 
 > **Next:** [Set up a diet plan](diet-plans.md) or [start tracking your workouts](tracker.md)
+
+---
+
+[← Previous: Dashboard](dashboard.md) | [Next: Diet Plans →](diet-plans.md)

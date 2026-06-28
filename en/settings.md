@@ -36,3 +36,7 @@ Tap **Logout** at the bottom of the Settings page to sign out of your account. Y
 ---
 
 > **Next:** [Learn about the AI assistant](ai-assistant.md) or [go back to the docs index](README.md)
+
+---
+
+[← Previous: Wallet](wallet.md) | [Next: Dashboard →](dashboard.md)

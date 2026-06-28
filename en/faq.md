@@ -8,3 +8,7 @@ Some features are free. Premium features may require a subscription or wallet ba
 
 **How do I find a trainer or gym?**
 Use the Trainers or Gyms sections to browse and connect.
+
+---
+
+[← Previous: About Us](about.md) | [Next: Terms and Conditions →](terms.md)

@@ -18,3 +18,7 @@ We reserve the right to suspend accounts that violate these terms.
 We may update these terms at any time. Continued use means acceptance.
 
 For questions, contact support@dambel.io.
+
+---
+
+[← Previous: FAQ](faq.md) | [Next: Privacy Policy →](privacy.md)

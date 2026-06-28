@@ -27,3 +27,7 @@ You can request access to, correction of, or deletion of your data at any time b
 We may update this policy occasionally. If we do, we'll let you know through the app.
 
 Questions? Reach us at **support@dambel.io**
+
+---
+
+[← Previous: Terms and Conditions](terms.md) | [Next: Contact Us →](contact.md)

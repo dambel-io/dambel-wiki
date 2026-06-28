@@ -78,3 +78,7 @@ Go to **Training → Trainees** to see all your current clients. Tap any trainee
 ---
 
 > **Next:** [Chat with your trainer](chat.md) or [view your wallet](wallet.md)
+
+---
+
+[← Previous: Tracker](tracker.md) | [Next: Gyms →](gyms.md)

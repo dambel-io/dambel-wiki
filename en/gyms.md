@@ -82,3 +82,7 @@ Tap any subscriber to view or edit their subscription details.
 ---
 
 > **Next:** [Find a trainer](trainers.md) or [check your wallet balance](wallet.md)
+
+---
+
+[← Previous: Trainers](trainers.md) | [Next: About Us →](about.md)

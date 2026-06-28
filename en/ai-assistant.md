@@ -57,3 +57,7 @@ Each chat is saved as a named thread. Threads are auto-titled based on what you 
 ---
 
 > **Next:** [Go back to the docs index](README.md)
+
+---
+
+[← Previous: Profile](profile.md) | [Next: Chat →](chat.md)

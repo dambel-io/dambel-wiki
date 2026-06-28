@@ -46,3 +46,7 @@ Once you're logged in, you'll see four tabs at the bottom of the screen:
 ---
 
 > **Speaking Persian?** Switch the app language anytime in [Settings](settings.md). Dambel fully supports Persian with a right-to-left layout.
+
+---
+
+[Next: Authentication Guide →](authentication.md)
