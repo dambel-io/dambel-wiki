@@ -45,7 +45,9 @@ A gym's detail page shows:
 
 ## Subscribing to a gym
 
-On the gym detail page, select a subscription plan and complete the payment through your Dambel wallet. Your active subscription shows up on the Dashboard.
+On the gym detail page, select a subscription plan and complete the payment through your Dambel wallet. Your active subscription shows up on the Dashboard, and you can review all of your subscriptions in **My Subscriptions**.
+
+![My subscriptions screen](images/my-subscriptions-screen.png)
 
 ---
 
