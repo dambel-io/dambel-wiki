@@ -69,6 +69,25 @@ Go to **My Gyms → +** and fill in:
 
 ![Gym form](images/gym-form-screen.png)
 
+### Gym license
+
+Every gym needs its operating licence on file. Open the gym for editing and find the **Gym license** box, below the photo gallery but separate from it — your gallery photos are public, your licence never is.
+
+Tap **Upload license** to photograph the document or pick it from your gallery. The status underneath tells you where it stands:
+
+| State | What it means |
+|---|---|
+| **Not uploaded** | No document on file yet. |
+| **Awaiting review** | We've got it and our team is checking it. |
+| **Approved** | The gym's licence is verified. |
+| **Rejected** | Something was wrong with it. The reason is shown below the status. |
+
+**Replace license** swaps in a new document and **Remove** takes it down; either way the licence goes back to awaiting review, since a new document needs a fresh check.
+
+Anything other than approved also shows as a small badge on the gym's card in **My Gyms**, so you can spot a rejected licence without opening the gym. You'll get a notification when the review finishes.
+
+Only you and our review team can see the document.
+
 ### View subscribers
 
 Open your gym and tap **Subscribers** to see a list of all active members with their subscription details. You can search for a specific subscriber by entering their user name in the search box.

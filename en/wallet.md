@@ -22,6 +22,12 @@ Each transaction shows the amount, date, and a short description of what it was 
 
 ---
 
+## Your bank account number
+
+On the wallet screen you can save a **bank account number**. This is the account your withdrawal requests are paid out to, so double-check that it's correct before saving. You can update it at any time — just edit the field and tap **Save**.
+
+---
+
 ## Paying for services
 
 When you subscribe to a gym or purchase a trainer service, the amount is automatically deducted from your wallet. If your balance is too low, you'll be prompted to top up.

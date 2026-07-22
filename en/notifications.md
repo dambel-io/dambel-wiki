@@ -20,6 +20,7 @@ Tap the **bell icon** at the top of the screen. A red badge shows how many unrea
 | **Ratings & reviews** | "Alex left you a 5-star review" |
 | **Role changes** | "You've been granted Trainer status" |
 | **Referrals** | "Someone signed up with your code" |
+| **Licence reviews** | "Your trainer license was approved" |
 | **Gym events** | "Your gym membership expires in 3 days" |
 | **Chat** | "New message from your trainer" |
 | **Training updates** | "Your trainer updated your workout plan" |
