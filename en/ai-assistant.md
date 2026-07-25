@@ -23,19 +23,17 @@ The assistant is context-aware. When you open it on the workout plan screen, it 
 
 ---
 
-## Form auto-fill
+## Live actions
 
-On supported screens, the assistant can fill in form fields for you. Just describe what you want:
+The assistant can do real work while you watch. As it looks something up, searches the web, or remembers a detail about you, you'll see a live status line — "Reading data…", "Searching the web…", "Saving a memory…" — so you always know what it's doing.
 
-> "Add a push day session with bench press, overhead press, and tricep dips"
-
-The assistant will populate the fields — you just review and save.
+For anything sensitive, it asks first. For example, before it forgets something it remembered about you, it shows an **Allow / Deny** prompt — nothing happens until you choose. The assistant reads what's on your screen to give better answers, but it never changes your screen or submits forms for you.
 
 ---
 
-## Navigating via chat
+## Attaching files
 
-The assistant can navigate you to a different part of the app. Say "take me to the gyms map" or "open my tracker history" and it'll go there.
+Tap the **attachment** button to add up to **5 files** (images or PDFs, 10 MB each) to a message — handy for asking about a photo of a meal, a training plan PDF, or a screenshot. Attached files show as thumbnails in the conversation.
 
 ---
 
@@ -51,8 +49,8 @@ Each chat is saved as a named thread. Threads are auto-titled based on what you 
 ## Tips for best results
 
 - Be specific — "suggest a 4-day workout split for hypertrophy" works better than "make me a plan"
-- The assistant works best when you're already on the relevant screen
-- It can't make API calls on your behalf — it helps you fill in information, not submit forms automatically
+- The assistant works best when you're already on the relevant screen — it reads that context to answer
+- Attach a photo or PDF when your question is about something visual
 
 ---
 
