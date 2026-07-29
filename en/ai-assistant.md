@@ -27,7 +27,11 @@ The assistant is context-aware. When you open it on the workout plan screen, it 
 
 The assistant can do real work while you watch. As it looks something up, searches the web, or remembers a detail about you, you'll see a live status line — "Reading data…", "Searching the web…", "Saving a memory…" — so you always know what it's doing.
 
-For anything sensitive, it asks first. For example, before it forgets something it remembered about you, it shows an **Allow / Deny** prompt — nothing happens until you choose. The assistant reads what's on your screen to give better answers, but it never changes your screen or submits forms for you.
+For anything sensitive — creating or changing a plan, forgetting something it remembered about you — it asks first. The prompt tells you exactly what it wants to do: the action's name and all the data it is about to use, so you can check the details before deciding. Tap **Show all details** to see the full data. Nothing happens until you choose **Allow** or **Deny**.
+
+If you trust an action and don't want to be asked every time, tap **Always allow this action**. From then on the assistant runs that particular action straight away — other actions still ask. This choice is remembered on your device only, and you can undo it at any time from **Settings → AI assistant permissions**.
+
+The assistant reads what's on your screen to give better answers, but it never changes your screen or submits forms for you.
 
 ---
 

@@ -21,6 +21,10 @@ Your choice is saved and applied on every launch.
 
 Access the AI assistant from Settings if you want to start a fresh conversation or manage your AI threads. You can also reach the assistant from within any feature screen via the sparkle icon.
 
+### AI assistant permissions
+
+If you have told the assistant to **always allow** an action, an **AI assistant permissions** entry appears in Settings showing how many actions you have approved that way. Tap it to make the assistant ask for your approval again before every action. The entry is hidden while you have not always-allowed anything.
+
 ---
 
 ## Support
