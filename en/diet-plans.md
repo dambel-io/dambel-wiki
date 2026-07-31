@@ -2,6 +2,8 @@
 
 A diet plan in Dambel lets you structure your daily nutrition — meals, macros, supplements, and water targets — all in one place.
 
+The plan opens in **read mode**, led by a daily nutrition summary, followed by your meals as scannable cards. Editing is always an explicit action.
+
 ![Diet plan detail](images/diet-plan-detail-screen.png)
 
 ---
@@ -11,7 +13,7 @@ A diet plan in Dambel lets you structure your daily nutrition — meals, macros,
 1. Go to **Training → Diet Plans**
 2. Tap **+** to create a new plan
 3. Name it (e.g., "Cut Phase", "Maintenance")
-4. Set your daily **water target** (in glasses)
+4. Set your daily **water target** in litres
 5. Save
 
 ---
@@ -32,6 +34,8 @@ Inside your plan:
 
 The plan automatically totals up your daily macros and calories across all meals.
 
+Each meal card shows its calories alongside the meal name, its ingredients, and one consistent macro line — protein, carbs and fat, always in that order. When a plan has several meals, a strip of meal names sits above the list; tap one to jump straight to it.
+
 ---
 
 ## Add supplements
@@ -49,7 +53,7 @@ Inside a meal:
 
 ## Water goal
 
-Set a daily water target when creating or editing the plan. The Tracker and Dashboard water card let you log glasses throughout the day and track progress toward your goal.
+Set a daily water target when creating or editing the plan — the field is labelled **Target Daily Water** and is measured in litres. The Tracker and Dashboard water card let you log your intake throughout the day and track progress toward your goal.
 
 ---
 
@@ -61,7 +65,7 @@ Only one diet plan can be active at a time. Activate it by opening the plan and 
 
 ## Nutritional totals
 
-At the top of any diet plan you'll see a summary of your **total daily protein, carbs, fat, and calories**. This updates automatically as you add or edit meals.
+At the top of any diet plan you'll see a summary of your **total daily protein, carbs, fat, and calories**, with the calorie total shown prominently and a bar showing how your macros are balanced. Your daily water target is listed underneath. This updates automatically as you add or edit meals.
 
 ---
 

@@ -2,6 +2,8 @@
 
 A workout plan is built from sessions — each one maps to a training day or workout type — with exercises inside.
 
+The plan opens in **read mode**: a summary of the plan, a strip of session tabs across the top, and the selected session's exercises below. Editing is always an explicit action, so you can open a plan just to look at it.
+
 ![Workout plan detail](images/workout-plan-detail-screen.png)
 
 ---
@@ -20,11 +22,11 @@ A workout plan is built from sessions — each one maps to a training day or wor
 A session represents one training day or type (e.g., "Monday – Chest", "Upper Body A").
 
 Inside your plan:
-1. Tap **Add Session**
-2. Name the session and assign it to a day of the week (optional)
+1. Tap **+** at the end of the session strip
+2. Name the session and assign it to a day of the week
 3. Save
 
-You can add as many sessions as your program needs.
+You can add as many sessions as your program needs. Tap any session in the strip to switch to it — the exercise list below updates to match.
 
 ---
 
@@ -32,11 +34,13 @@ You can add as many sessions as your program needs.
 
 Inside a session:
 1. Tap **Add Exercise**
-2. Search or browse to find the exercise
-3. Add sets — each set has **reps** and **weight** targets
+2. **Search the exercise library** — start typing a name or a body area (for example "chest") and the list narrows as you type
+3. Set the number of sets and reps
 4. Save
 
 Repeat for each exercise in the session.
+
+Each exercise row shows its sets and reps as labelled figures, plus any note you added. **Tap a row to expand it** for the exercise's illustration and step-by-step instructions.
 
 ---
 
@@ -63,9 +67,11 @@ To activate a plan: open it and tap **Set as Active**.
 
 ## Edit or delete a plan
 
-- To **edit** plan details: tap the pencil icon at the top of the plan
+- To **edit** plan details: tap the pencil icon next to the plan name
+- To **edit or delete a session or an exercise**: tap the **⋮** menu on it and pick the action
 - To **delete** a plan: open plan settings and tap **Delete**
-- To **reorder sessions** or **remove exercises**: long-press or use the edit mode inside the session
+
+Edit and delete options only appear for plans you are allowed to change.
 
 ---
 

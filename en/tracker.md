@@ -59,7 +59,9 @@ Log which supplements you took:
 
 ![Tracker history](images/tracker-history-screen.png)
 
-The Tracker tab shows a timeline of all your logged activities, grouped by date. Scroll back to see older entries. Tap any entry to see details or edit it.
+The Tracker tab shows a timeline of all your logged activities, grouped by date. Scroll back and older entries load automatically, always below what you are already reading. Tap any entry to see details or edit it.
+
+If you haven't logged anything yet, the page tells you so rather than showing an empty screen.
 
 ---
 
@@ -67,10 +69,19 @@ The Tracker tab shows a timeline of all your logged activities, grouped by date.
 
 ![Workout details](images/workout-details-screen.png)
 
-Tap a logged workout to see the full breakdown:
-- Total duration
-- Each exercise with all sets (weight × reps)
-- Notes
+Open a workout to see it built around **the exercise you are on right now**:
+
+- A header with the workout name, live elapsed time, and how many of the planned exercises you have finished
+- **The current exercise**, with its illustration, its target sets and reps, and every set you have logged for it
+- A **Log set** button right underneath — tap it and the weight and reps are already filled in **from your previous set of that exercise**, so a normal set is one confirmation away. With no previous set, it falls back to the plan's target reps.
+- An **Add another exercise** button for anything you do that the plan doesn't list — pick it from the searchable exercise list and log its sets like any other
+- A **rest timer** that starts counting as soon as you log a set
+- The remaining planned exercises below — tap any one to switch to it
+- **Extra exercises** — anything you logged outside the plan, listed under its own heading with the number of sets you did; tap one to switch to it, or use its **+** to add another set
+
+To edit a set's weight or reps, tap the pencil on its row and change the numbers in place. Tap the set itself for the full editor (exercise, notes, times).
+
+The workout's own details — title, notes, start and end time, and the linked plan session — live behind the **⋮** menu in the header, out of the way while you train. Times are shown in a readable, localized format and are set with a date and time picker.
 
 ---
 
