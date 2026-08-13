@@ -25,8 +25,8 @@ Multiple profile pictures are supported. You can upload a gallery of photos that
 ## Roles & badges
 
 Your profile shows your active roles:
-- **Coach** — you offer training services
-- **Trainer** — you're affiliated with a gym or organization
+- **Trainer** — you offer training services
+- **Gym admin** — you help run a gym
 
 Roles are given by Dambel — you'll get a notification if yours changes.
 
