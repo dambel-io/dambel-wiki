@@ -50,6 +50,44 @@ Each chat is saved as a named thread. Threads are auto-titled based on what you 
 
 ---
 
+## Using Dambel from other AI apps
+
+The assistant inside Dambel isn't the only way in. Dambel also publishes a **connector** that other AI apps — Claude, and any other assistant that supports custom connectors — can plug into, so you can ask them about your training without leaving the app you're already in.
+
+**The address to add is:**
+
+```
+https://api.dambel.io/mcp
+```
+
+### Adding it
+
+1. Open your AI app's connector settings — in Claude that's **Settings → Connectors → Add custom connector**.
+2. Paste the address above and confirm.
+3. A Dambel sign-in page opens in your browser. Sign in with your usual Dambel account and approve access.
+4. That's it — no token to copy, no password to paste anywhere except the Dambel sign-in page itself.
+
+The exact menu names differ from app to app, but the step you're looking for is always the one that asks for a **custom connector** or **MCP server address**.
+
+### What it can do there
+
+Once connected, the other assistant can, on your behalf:
+
+- Read your profile, gyms, workout and diet plans, and your tracker history
+- Look through the exercise, equipment and supplement catalogues
+- Create and edit workout plans, sessions and exercises, and diet plans, meals and supplements
+- Remember details about you — the same memory the in-app assistant uses, so both stay in sync
+
+### Good to know
+
+- It only ever sees what your own account can see, and it acts as you.
+- Creating and editing plans is a **premium** feature, and works only on plans you own or coach.
+- Deleting a plan also deletes everything inside it, and cannot be undone. Be specific about what you want removed.
+- Changes made from another app go straight to your account — refresh the Dambel app to see them.
+- To cut access off, remove the connector in that app. You can reconnect any time.
+
+---
+
 ## Tips for best results
 
 - Be specific — "suggest a 4-day workout split for hypertrophy" works better than "make me a plan"
