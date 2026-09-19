@@ -10,6 +10,8 @@ The plan opens in **read mode**: a summary of the plan, a strip of session tabs 
 
 ## Create a plan
 
+The **Workout Plans** tab is part of the Training area, and it is there only if your account may see plans.
+
 1. Go to **Training → Workout Plans**
 2. Tap the **+** button to create a new plan
 3. Give it a name (e.g., "Push/Pull/Legs", "5-Day Split")
@@ -46,12 +48,15 @@ Each exercise row shows its sets and reps as labelled figures, plus any note you
 
 ## Super sets
 
-Super sets let you group two or more exercises to be performed back-to-back with no rest between them.
+Super sets group two or more exercises to be performed back-to-back with no rest between them.
 
-To create a super set:
-1. Add the exercises you want to group
-2. Select them and tap **Create Super Set**
-3. They'll appear visually linked in the session view
+You make one from the *second* exercise, not from a selection:
+1. Add both exercises to the session
+2. Open the second one for editing
+3. In its **Super set** field, pick the exercise it belongs with
+4. Save
+
+The grouped exercises then render together inside one highlighted card, labelled **Super set**. To break a group up, clear that field again.
 
 Super sets are great for antagonist muscle pairings (e.g., biceps + triceps) or circuit-style training.
 
@@ -61,7 +66,7 @@ Super sets are great for antagonist muscle pairings (e.g., biceps + triceps) or 
 
 Only one workout plan can be active at a time. The active plan shows up on your Dashboard and is suggested when you log a workout in the Tracker.
 
-To activate a plan: open it and tap **Set as Active**.
+To activate a plan: open it and tap **Set as active plan**.
 
 ---
 
@@ -71,7 +76,7 @@ To activate a plan: open it and tap **Set as Active**.
 - To **edit or delete a session or an exercise**: tap the **⋮** menu on it and pick the action
 - To **delete** a plan: open plan settings and tap **Delete**
 
-Edit and delete options only appear for plans you are allowed to change.
+Edit and delete options only appear for plans that are yours to change. A plan your trainer wrote for you is theirs: you can read it, follow it and log against it, but the pencil and the ⋮ menus are not offered, and the header says who wrote it. The same plan on your trainer's screen carries the name of the trainee it was written for, and all of its editing.
 
 ---
 

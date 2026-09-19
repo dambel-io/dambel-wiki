@@ -10,6 +10,8 @@ The plan opens in **read mode**, led by a daily nutrition summary, followed by y
 
 ## Create a plan
 
+The **Diet Plans** tab is part of the Training area, and it is there only if your account may see plans.
+
 1. Go to **Training → Diet Plans**
 2. Tap **+** to create a new plan
 3. Name it (e.g., "Cut Phase", "Maintenance")
@@ -59,13 +61,15 @@ Set a daily water target when creating or editing the plan — the field is labe
 
 ## Set a plan as active
 
-Only one diet plan can be active at a time. Activate it by opening the plan and tapping **Set as Active** — it'll then appear on your Dashboard.
+Only one diet plan can be active at a time. Activate it by opening the plan and tapping **Set as active plan** — it'll then appear on your Dashboard.
 
 ---
 
 ## Nutritional totals
 
 At the top of any diet plan you'll see a summary of your **total daily protein, carbs, fat, and calories**, with the calorie total shown prominently and a bar showing how your macros are balanced. Your daily water target is listed underneath. This updates automatically as you add or edit meals.
+
+Two things about that summary are worth knowing. Each meal slot is counted **once**: when a plan offers alternatives for the same meal you eat one or the other, so only the first is in the figure, and a line under the total says so. And the bar is proportional to **grams**, not calories — fat weighs less per calorie than the other two, so its slice looks smaller than its share of the energy. The bar says that under itself too.
 
 ---
 

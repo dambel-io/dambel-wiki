@@ -8,7 +8,9 @@ Dambel has a built-in AI assistant that understands what you're doing in the app
 
 ## Opening the assistant
 
-Look for the **sparkle icon** (✦) on any screen that supports it — workout plans, diet plans, profile, and more. Tap it to open a chat panel with the assistant.
+Look for the **sparkle icon** (✦) in the top bar. Tap it to open a chat panel with the assistant.
+
+On a phone the panel covers the screen; on a wide screen it docks beside what you were reading, so you can keep both in view.
 
 ---
 
@@ -33,11 +35,27 @@ If you trust an action and don't want to be asked every time, tap **Always allow
 
 The assistant reads what's on your screen to give better answers, but it never changes your screen or submits forms for you.
 
+### While it is working
+
+An answer that is taking too long is not something you have to sit through. **Stop** ends the wait and gives you the panel back. If the assistant is still working after five minutes it stops on its own and says so, rather than spinning indefinitely.
+
+A message that failed to send stays where you typed it, with **Send again** — you never have to retype it.
+
+### Limits
+
+There is a cap on how much you can ask for in a stretch. Reaching it is not an error: the assistant says you've reached the limit for now, and that going Premium raises it. Waiting works too.
+
+### Deciding what it sees
+
+At the start of the row that holds the message box there is an eye, the **Send this screen** control. An open eye means the screen you are on goes with your message; tap it and the eye is struck through, nothing about the screen is sent, and the assistant answers from the conversation alone. The choice is remembered, so you set it once rather than on every message.
+
+Next to the eye, **Show what the assistant can see** opens a list of what would be sent: the screen you are on, the item you are viewing, what you have typed into a form, your current filters. If something is too large to send, the list says so rather than leaving it out silently.
+
 ---
 
 ## Attaching files
 
-Tap the **attachment** button to add up to **5 files** (images or PDFs, 10 MB each) to a message — handy for asking about a photo of a meal, a training plan PDF, or a screenshot. Attached files show as thumbnails in the conversation.
+Tap **Attach files** to add up to **5 files** (images or PDFs, 10 MB each) to a message — handy for asking about a photo of a meal, a training plan PDF, or a screenshot. Attached files show as thumbnails in the conversation.
 
 ---
 
@@ -81,7 +99,7 @@ Once connected, the other assistant can, on your behalf:
 ### Good to know
 
 - It only ever sees what your own account can see, and it acts as you.
-- Creating and editing plans is a **premium** feature, and works only on plans you own or coach.
+- Creating and editing plans is a **premium** feature, and works only on plans you own or are the trainer of.
 - Deleting a plan also deletes everything inside it, and cannot be undone. Be specific about what you want removed.
 - Changes made from another app go straight to your account — refresh the Dambel app to see them.
 - To cut access off, remove the connector in that app. You can reconnect any time.

@@ -8,6 +8,7 @@
     - [Notifications](notifications.md)
     - [Wallet](wallet.md)
     - [Settings](settings.md)
+    - [Login Sessions](login-sessions.md)
 - Features
     - [Dashboard](dashboard.md)
     - [Workout Plans](workout-plans.md)
@@ -15,9 +16,15 @@
     - [Tracker](tracker.md)
     - [Trainers](trainers.md)
     - [Gyms](gyms.md)
+- More from Dambel
+    - [Reporting](reporting.md)
+    - [Analytics](analytics.md)
+    - [Premium, Boost and money](monetization.md)
+    - [Using Dambel on a computer](on-a-computer.md)
 - More Information
     - [About Us](about.md)
     - [FAQ](faq.md)
     - [Terms and Conditions](terms.md)
     - [Privacy Policy](privacy.md)
     - [Contact Us](contact.md)
+    - [What's New](changelog.md)

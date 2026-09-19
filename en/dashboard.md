@@ -1,6 +1,6 @@
 # Dashboard
 
-The Dashboard is your home screen — a single view of everything happening today.
+The Dashboard is your home screen — where the day starts, and what it shows depends on who you are.
 
 ![Dashboard screen](images/dashboard-screen.png)
 
@@ -8,38 +8,51 @@ The Dashboard is your home screen — a single view of everything happening toda
 
 ## What's on the Dashboard
 
-### Today's quick-log cards
+### Your first visit
 
-Six color-coded cards let you log your daily activities without navigating anywhere:
-
-| Card | What it logs |
-|---|---|
-| **Sleep** | Duration and notes |
-| **Weight** | Body weight in kg |
-| **Workout** | Active workout session |
-| **Meals** | Food intake with macros |
-| **Supplements** | Supplements taken |
-| **Water** | Number of glasses |
-
-Tap any card to open a quick-log form. Your entries are saved to your tracker history automatically.
+A brand-new account sees one card: **Start here**, with two ways in — find a trainer to write you a plan, or ask the assistant to build one now. It goes away as soon as there is something to show.
 
 ### Active plans
 
-If you have an active workout or diet plan, the Dashboard shows it here — with a shortcut to open the full plan.
+Your current workout plan, diet plan and gym subscription, one card each. Each card names the plan, a few of its numbers, and opens it with **View plan details**; the quieter link below goes to the full list.
+
+If you are not a member of any gym yet, the gym card offers **Find gyms** rather than the empty list.
+
+### Today
+
+A one-line summary of what you have logged today — water, meals, workouts, supplements — with **Log today** to open the [Tracker](tracker.md), which is where logging happens. The Dashboard reports; the Tracker records.
+
+### Premium
+
+Where your premium membership stands: active and until when, ending this week, ended, or never started — with **Renew** or **Upgrade to Premium** where either applies. See [Wallet](wallet.md).
 
 ### Wallet balance
 
-Your current Dambel balance is displayed at the top. Tap it to go to your [Wallet](wallet.md).
+Your current Dambel balance. Tap it to go to your [Wallet](wallet.md).
 
-### Gym subscription status
+### If you are a trainer or a gym owner
 
-If you have an active gym subscription, you'll see the gym name and expiry date.
+Extra cards appear for what you run rather than what you follow:
+
+| Card | What it shows |
+|---|---|
+| **My trainees** | How many trainees you have, and the newest |
+| **My gyms** | How many gyms you own, and one of them |
+| **Trainer licence** | Whether your licence is under review, or needs a clearer copy — until it is approved, your services are not listed |
+
+![The Dashboard's lower half](images/dashboard-screen-scrolled.png)
+
+---
+
+## On a wide screen
+
+Given the room, the cards lay out in columns rather than one long stack, and the four tabs move to a rail down the side. See [Using Dambel on a computer](on-a-computer.md).
 
 ---
 
 ## Daily habit
 
-The Dashboard is designed for one quick check-in per day. Open it, tap the relevant cards to log what you did, and you're done. Your history builds up over time in the [Tracker](tracker.md).
+Open the Dashboard for the shape of your day, then go to the [Tracker](tracker.md) to log it. Your history builds up over time.
 
 ---
 
@@ -47,4 +60,4 @@ The Dashboard is designed for one quick check-in per day. Open it, tap the relev
 
 ---
 
-[← Previous: Settings](settings.md) | [Next: Workout Plans →](workout-plans.md)
+[← Previous: Login Sessions](login-sessions.md) | [Next: Workout Plans →](workout-plans.md)

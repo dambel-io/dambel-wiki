@@ -16,6 +16,8 @@ Tap **Sign Up** on the welcome screen and fill in:
 | Username | At least 3 characters, must be unique |
 | Password | At least 8 characters |
 
+Tick the box beside **I have read and agree to the Privacy Policy** before you continue - tapping the sentence ticks it, and tapping **Privacy Policy** opens the policy in a sheet over the form, so you never leave your half-filled registration to read it.
+
 After you tap **Register**, the form is replaced by a single verification screen. A **6-digit SMS code** is sent to your phone - enter it there and tap **Verify and Register** to activate your account.
 
 If you didn't receive the code, tap **Resend Code** once the one-minute cooldown expires.
@@ -36,7 +38,7 @@ Enter your **phone number** and **password**, then tap **Login**. That's it.
 
 ![Forgot password screen](images/forgot-password-screen.png)
 
-1. Tap **Forgot Password** on the login screen
+1. Tap **Forgot password?** on the login screen
 2. Enter your registered phone number
 3. Enter the 6-digit SMS verification code you receive
 4. Set a new password
@@ -49,7 +51,17 @@ Your password is updated immediately — log in with the new one right away.
 
 ## Signing out
 
-Go to **Profile → Settings** and tap **Logout** at the bottom of the settings page.
+Tap your photo in the top bar and choose **Logout**. It sits in that menu rather than in Settings, so you can't reach it by accident while changing a setting.
+
+To sign out a *different* device instead of this one, see [Login sessions](login-sessions.md).
+
+---
+
+## Coming back to where you were
+
+If you followed a link to a gym, a plan or a service while signed out, Dambel takes you to the login screen first and then opens what you were after - you don't have to find it again.
+
+The same holds if your session expires while you're using the app: you're returned to the login screen, and signing in puts you back on the screen you were reading.
 
 ---
 

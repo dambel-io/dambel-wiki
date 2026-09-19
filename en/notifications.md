@@ -6,9 +6,13 @@ Notifications keep you in the loop — payments, trainer updates, gym stuff, and
 
 ---
 
-## Accessing notifications
+## The bell, and the inbox behind it
 
-Tap the **bell icon** at the top of the screen. A red badge shows how many unread notifications you have.
+Tap the **bell icon** at the top of the screen. A badge shows how many unread notifications you have.
+
+The bell opens a **preview** — the newest few, and a way to the rest. It is there to tell you what's new and then get out of the way. **View all** at its foot opens the inbox, which is its own screen and where everything below happens.
+
+![The notifications preview behind the bell](images/notifications-panel.png)
 
 ---
 
@@ -29,22 +33,23 @@ Tap the **bell icon** at the top of the screen. A red badge shows how many unrea
 
 ---
 
-## Mark as read
+## Reading them
 
-- Tap a notification to mark it as read and navigate to the relevant screen
-- Tap **Mark all as read** to clear everything at once
-
----
-
-## Delete a notification
-
-Swipe a notification to the left to delete it.
+- Tap a notification to mark it read and go to whatever it is about. That works from the preview and from the inbox alike.
+- **Mark all as read** is the tick in the inbox's top bar. It appears only while something is unread.
+- **Unread only** at the top of the inbox hides everything you have already seen.
 
 ---
 
-## Load older notifications
+## Deleting one
 
-Notifications load 20 at a time. Scroll to the bottom of the list to load older ones automatically.
+Swipe a notification aside in the inbox. It goes straight away, and a message offers to **undo** for a few seconds in case you didn't mean it — after that it is gone.
+
+---
+
+## Older notifications
+
+The inbox loads more as you scroll to the bottom. The preview behind the bell never does; it is only ever the newest few.
 
 ---
 
